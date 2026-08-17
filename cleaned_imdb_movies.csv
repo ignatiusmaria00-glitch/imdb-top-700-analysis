@@ -1,0 +1,701 @@
+rank,title,year,genres,director,main_actors,country,imdb_rating,votes,runtime_mins,decade
+1,The Shawshank Redemption,1994,Drama,Frank Darabont,Tim Robbins|Morgan Freeman|Bob Gunton,DK|AT,9.3,3219532,142,1990s
+2,The Godfather,1972,Crime|Drama,Francis Ford Coppola,Marlon Brando|Al Pacino|James Caan,DK|AT,9.2,2244476,175,1970s
+3,The Dark Knight,2008,Crime|Thriller,Christopher Nolan,Christian Bale|Heath Ledger|Aaron Eckhart,DK|LV,9.1,3205233,152,2000s
+4,The Lord of the Rings: The Return of the King,2003,Adventure|Drama|Fantasy,Peter Jackson,Elijah Wood|Viggo Mortensen|Ian McKellen,DK|MK,9.0,2181911,201,2000s
+5,Schindler's List,1993,Biography|Drama|History,Steven Spielberg,Liam Neeson|Ralph Fiennes|Ben Kingsley,DK|LV,9.0,1595992,195,1990s
+6,The Godfather Part II,1974,Crime|Drama,Francis Ford Coppola,Al Pacino|Robert De Niro|Robert Duvall,DK|AT,9.0,1505593,202,1970s
+7,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Drama|Fantasy,Peter Jackson,Elijah Wood|Ian McKellen|Orlando Bloom,DK|MK,8.9,2225069,178,2000s
+8,12 Angry Men,1957,Crime|Drama,Sidney Lumet,Henry Fonda|Lee J. Cobb|Martin Balsam,DK|AT,9.0,996200,96,1950s
+9,Inception,2010,Adventure|Sci-Fi|Thriller,Christopher Nolan,Leonardo DiCaprio|Joseph Gordon-Levitt|Elliot Page,LV|DK,8.8,2849612,148,2010s
+10,Fight Club,1999,Crime|Drama|Thriller,David Fincher,Brad Pitt|Edward Norton|Meat Loaf,DK|AT,8.8,2642450,139,1990s
+11,Forrest Gump,1994,Drama|Romance,Robert Zemeckis,Tom Hanks|Robin Wright|Gary Sinise,DK|AT,8.8,2520101,142,1990s
+12,Pulp Fiction,1994,Crime|Drama,Quentin Tarantino,John Travolta|Uma Thurman|Samuel L. Jackson,DK|AT,8.8,2455412,154,1990s
+13,The Lord of the Rings: The Two Towers,2002,Adventure|Drama|Fantasy,Peter Jackson,Elijah Wood|Ian McKellen|Viggo Mortensen,DK|MK,8.8,1973559,179,2000s
+14,Interstellar,2014,Adventure|Drama|Sci-Fi,Christopher Nolan,Matthew McConaughey|Anne Hathaway|Jessica Chastain,LV|PH,8.7,2580770,169,2010s
+15,The Matrix,1999,Action|Sci-Fi,Lana Wachowski|Lilly Wachowski,Keanu Reeves|Laurence Fishburne|Carrie-Anne Moss,DK|LV,8.7,2266414,136,1990s
+16,"The Good, the Bad and the Ugly",1966,Adventure|Drama|Western,Sergio Leone,Clint Eastwood|Eli Wallach|Lee Van Cleef,DK|AT,8.8,896438,178,1960s
+17,Star Wars: Episode V - The Empire Strikes Back,1980,Adventure|Fantasy|Sci-Fi,Irvin Kershner,Mark Hamill|Harrison Ford|Carrie Fisher,DK|LV,8.7,1516571,124,1980s
+18,GoodFellas,1990,Biography|Crime|Drama,Martin Scorsese,Robert De Niro|Ray Liotta|Joe Pesci,DK|AT,8.7,1404879,145,1990s
+19,Seven,1995,Crime|Drama|Mystery,David Fincher,Morgan Freeman|Brad Pitt|Kevin Spacey,DK|AT,8.6,2044987,127,1990s
+20,The Silence of the Lambs,1991,Crime|Drama|Horror,Jonathan Demme,Jodie Foster|Anthony Hopkins|Scott Glenn,CR|LV,8.6,1739068,118,1990s
+21,Saving Private Ryan,1998,Drama|War,Steven Spielberg,Tom Hanks|Matt Damon|Tom Sizemore,LV|AT,8.6,1653787,169,1990s
+22,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Fantasy,George Lucas,Mark Hamill|Harrison Ford|Carrie Fisher,DK|PH,8.6,1581692,121,1970s
+23,The Green Mile,1999,Crime|Drama|Fantasy,Frank Darabont,Tom Hanks|Michael Clarke Duncan|David Morse,DK|LV,8.6,1575989,189,1990s
+24,Terminator 2: Judgment Day,1991,Action|Adventure|Sci-Fi,James Cameron,Arnold Schwarzenegger|Linda Hamilton|Edward Furlong,DK|LV,8.6,1293476,137,1990s
+25,One Flew Over the Cuckoo's Nest,1975,Drama,MiloÅ¡ Forman,Jack Nicholson|Louise Fletcher|Michael Berryman,DK|AT,8.6,1162740,133,1970s
+26,Spirited Away,2001,Adventure|Animation|Family,Hayao Miyazaki,Daveigh Chase|Miyu Irino|Rumi Hiiragi,HN|DO,8.6,978624,124,2000s
+27,City of God,2002,Crime|Drama,Fernando Meirelles|KÃ¡tia Lund,Alexandre Rodrigues|Leandro Firmino|Matheus Nachtergaele,LV|DK,8.6,877793,130,2000s
+28,Django Unchained,2012,Drama|Western,Quentin Tarantino,Jamie Foxx|Christoph Waltz|Leonardo DiCaprio,LU|MK,8.5,1902442,165,2010s
+29,Gladiator,2000,Action|Adventure|Drama,Ridley Scott,Russell Crowe|Joaquin Phoenix|Connie Nielsen,LV|DK,8.5,1869788,155,2000s
+30,Life Is Beautiful,1997,Comedy|Drama|Romance,Roberto Benigni,Roberto Benigni|Nicoletta Braschi|Giorgio Cantarini,LV|DK,8.6,818868,116,1990s
+31,The Prestige,2006,Drama|Mystery|Sci-Fi,Christopher Nolan,Christian Bale|Hugh Jackman|Scarlett Johansson,DK|PH,8.5,1611728,130,2000s
+32,The Departed,2006,Crime|Drama|Thriller,Martin Scorsese,Leonardo DiCaprio|Matt Damon|Jack Nicholson,PH|PT,8.5,1569068,151,2000s
+33,Back to the Future,1985,Adventure|Comedy|Sci-Fi,Robert Zemeckis,Michael J. Fox|Christopher Lloyd|Lea Thompson,DK|PH,8.5,1466936,116,1980s
+34,LÃ©on: The Professional,1994,Action|Crime|Drama,Luc Besson,Jean Reno|Gary Oldman|Natalie Portman,DK|AT,8.5,1359898,110,1990s
+35,American History X,1998,Crime|Drama,Tony Kaye,Edward Norton|Edward Furlong|Beverly D'Angelo,LV|DK,8.5,1281306,119,1990s
+36,The Lion King,1994,Adventure|Animation|Drama,Roger Allers|Rob Minkoff,Matthew Broderick|Jeremy Irons|James Earl Jones,LV|DK,8.5,1270842,88,1990s
+37,The Usual Suspects,1995,Crime|Drama|Mystery,Bryan Singer,Kevin Spacey|Gabriel Byrne|Chazz Palminteri,LV|DK,8.5,1247482,106,1990s
+38,Parasite,2019,Drama|Thriller,Bong Joon Ho,Song Kang-ho|Lee Sun-kyun|Cho Yeo-jeong,DK|LV,8.5,1184207,132,2010s
+39,Whiplash,2014,Drama|Music,Damien Chazelle,Miles Teller|J.K. Simmons|Melissa Benoist,PH|PT,8.5,1171846,106,2010s
+40,The Intouchables,2011,Comedy|Drama,Olivier Nakache|Ã‰ric Toledano,FranÃ§ois Cluzet|Omar Sy|Anne Le Ny,DK|LV,8.5,1036655,112,2010s
+41,The Pianist,2002,Biography|Drama|Music,Roman Polanski,Adrien Brody|Thomas Kretschmann|Frank Finlay,DK|LV,8.5,1019855,150,2000s
+42,It's a Wonderful Life,1946,Drama|Family|Fantasy,Frank Capra,James Stewart|Donna Reed|Lionel Barrymore,LV|DK,8.6,557123,130,1940s
+43,The Dark Knight Rises,2012,Crime|Thriller,Christopher Nolan,Christian Bale|Tom Hardy|Anne Hathaway,LV|PH,8.4,2015684,164,2010s
+44,Inglourious Basterds,2009,Drama|War,Quentin Tarantino,Brad Pitt|Diane Kruger|Eli Roth,LV|PH,8.4,1806568,153,2000s
+45,Psycho,1960,Drama|Horror|Mystery,Alfred Hitchcock,Anthony Perkins|Janet Leigh|Vera Miles,DK|AT,8.5,790916,109,1960s
+46,Avengers: Endgame,2019,Action|Adventure|Sci-Fi,Anthony Russo|Joe Russo,Robert Downey Jr.|Robert Downey Jr.|Chris Evans,AT|PH,8.4,1469844,181,2010s
+47,Memento,2000,Mystery|Thriller,Christopher Nolan,Guy Pearce|Carrie-Anne Moss|Joe Pantoliano,DK|AT,8.4,1450425,113,2000s
+48,Avengers: Infinity War,2018,Action|Adventure|Sci-Fi,Anthony Russo|Joe Russo,Robert Downey Jr.|Robert Downey Jr.|Chris Hemsworth,AT|PH,8.4,1394313,149,2010s
+49,WALLÂ·E,2008,Adventure|Animation|Family,Andrew Stanton,Ben Burtt|Ben Burtt|Elissa Knight,LV|PH,8.4,1334291,98,2000s
+50,The Shining,1980,Drama|Horror,Stanley Kubrick,Jack Nicholson|Shelley Duvall|Danny Lloyd,DK|AT,8.4,1236925,146,1980s
+51,Good Will Hunting,1997,Drama|Romance,Gus Van Sant,Robin Williams|Matt Damon|Ben Affleck,LV|DK,8.4,1232951,126,1990s
+52,Casablanca,1942,Drama|Romance|War,Michael Curtiz,Humphrey Bogart|Ingrid Bergman|Paul Henreid,DK|AT,8.5,658563,102,1940s
+53,Raiders of the Lost Ark,1981,Adventure,Steven Spielberg,Harrison Ford|Karen Allen|Paul Freeman,DK|LV,8.4,1116751,115,1980s
+54,Alien,1979,Horror|Sci-Fi,Ridley Scott,Sigourney Weaver|Tom Skerritt|John Hurt,DK|LV,8.4,1071784,117,1970s
+55,The Kashmir Files,2022,Drama,Vivek Agnihotri,Mithun Chakraborty|Anuman Kher|Darshan Kumaar,AT|PH,8.5,579501,170,2020s
+56,Seven Samurai,1954,Action|Drama,Akira Kurosawa,ToshirÅ Mifune|Takashi Shimura|Keiko Tsushima,DK|PT,8.6,404200,207,1950s
+57,Spider-Man: Across the Spider-Verse,2023,Action|Adventure|Animation,Joaquim Dos Santos|Kemp Powers|Justin K. Thompson,Shameik Moore|Hailee Steinfeld|Brian Tyree Henry,LV|DK,8.5,541716,140,2020s
+58,Aliens,1986,Action|Adventure|Horror,James Cameron,Sigourney Weaver|Michael Biehn|Carrie Henn,DK|LV,8.4,844872,137,1980s
+59,Spider-Man: Into the Spider-Verse,2018,Action|Adventure|Animation,Bob Persichetti|Peter Ramsey|Rodney Rothman,Shameik Moore|Jake Johnson|Hailee Steinfeld,LV|AT,8.4,805142,117,2010s
+60,Dune: Part Two,2024,Action|Adventure|Drama,Denis Villeneuve,TimothÃ©e Chalamet|Zendaya|Rebecca Ferguson,DK|LV,8.4,781817,166,2020s
+61,Apocalypse Now,1979,Drama|Mystery|War,Francis Ford Coppola,Martin Sheen|Marlon Brando|Robert Duvall,LV|DK,8.4,775032,147,1970s
+62,Joker,2019,Drama,Todd Phillips,Joaquin Phoenix|Robert De Niro|Zazie Beetz,DK|LV,8.3,1713639,122,2010s
+63,Coco,2017,Adventure|Animation|Drama,Lee Unkrich|Adrian Molina,Anthony Gonzalez|Gael GarcÃ­a Bernal|Benjamin Bratt,AT|PH,8.4,720135,105,2010s
+64,American Beauty,1999,Drama,Sam Mendes,Kevin Spacey|Annette Bening|Thora Birch,LV|DK,8.3,1284592,122,1990s
+65,Up,2009,Adventure|Animation|Comedy,Pete Docter|Bob Peterson,Edward Asner|Jordan Nagai|John Ratzenberger,DK|PH,8.3,1248913,96,2000s
+66,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Fantasy,Richard Marquand,Mark Hamill|Harrison Ford|Carrie Fisher,DK|LV,8.3,1218761,131,1980s
+67,Toy Story,1995,Adventure|Animation|Comedy,John Lasseter,Tom Hanks|Tim Allen|Don Rickles,LV|DK,8.3,1191452,81,1990s
+68,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,Michel Gondry,Jim Carrey|Kate Winslet|Tom Wilkinson,DK|LV,8.3,1190748,108,2000s
+69,Braveheart,1995,Drama|War,Mel Gibson,Mel Gibson|Sophie Marceau|Patrick McGoohan,LV|DK,8.3,1168207,178,1990s
+70,Scarface,1983,Crime|Drama,Brian De Palma,Al Pacino|Michelle Pfeiffer|Steven Bauer,DK|PH,8.3,1027702,170,1980s
+71,Rear Window,1954,Drama|Mystery|Thriller,Alfred Hitchcock,James Stewart|Grace Kelly|Wendell Corey,LV|DK,8.4,571710,112,1950s
+72,Toy Story 3,2010,Adventure|Animation|Comedy,Lee Unkrich,Tom Hanks|Tim Allen|Joan Cusack,DK|PH,8.3,984493,103,2010s
+73,Requiem for a Dream,2000,Drama,Darren Aronofsky,Ellen Burstyn|Jared Leto|Jennifer Connelly,PH|PT,8.3,980729,102,2000s
+74,Grave of the Fireflies,1988,Animation|Drama|War,Isao Takahata,Tsutomu Tatsumi|Ayano Shiraishi|Akemi Yamaguchi,DK|PH,8.5,392382,88,1980s
+75,Once Upon a Time in the West,1968,Drama|Western,Sergio Leone,Henry Fonda|Charles Bronson|Claudia Cardinale,DK|LV,8.5,386377,145,1960s
+76,Heat,1995,Action|Crime|Drama,Michael Mann,Al Pacino|Robert De Niro|Val Kilmer,LV|DK,8.3,813458,170,1990s
+77,2001: A Space Odyssey,1968,Adventure|Sci-Fi,Stanley Kubrick,Keir Dullea|Gary Lockwood|William Sylvester,DK|PH,8.3,789025,149,1960s
+78,3 Idiots,2009,Comedy|Drama,Rajkumar Hirani,Aamir Khan|Aamir Khan|Madhavan,LV|PH,8.4,487038,170,2000s
+79,The Odyssey,2026,Action|Adventure|Fantasy,Christopher Nolan,Matt Damon|Tom Holland|Anne Hathaway,LV|DK,8.5,353668,172,2020s
+80,The Wolf of Wall Street,2013,Biography|Comedy|Crime,Martin Scorsese,Leonardo DiCaprio|Jonah Hill|Margot Robbie,LV|PH,8.2,1812567,180,2010s
+81,Batman Begins,2005,Crime,Christopher Nolan,Christian Bale|Christian Bale|Michael Caine,LV|DK,8.2,1733418,140,2000s
+82,Amadeus,1984,Biography|Drama|Music,MiloÅ¡ Forman,F. Murray Abraham|Tom Hulce|Elizabeth Berridge,DK|PH,8.4,471333,160,1980s
+83,Shutter Island,2010,Mystery|Thriller,Martin Scorsese,Leonardo DiCaprio|Emily Mortimer|Mark Ruffalo,LV|DK,8.2,1670630,138,2010s
+84,Oldboy,2003,Action|Drama|Mystery,Park Chan-wook,Choi Min-sik|Yoo Ji-tae|Kang Hye-jeong,LV|DK,8.3,727286,120,2000s
+85,The Lives of Others,2006,Drama|Mystery|Thriller,Florian Henckel von Donnersmarck,Ulrich MÃ¼he|Martina Gedeck|Sebastian Koch,DK|LV,8.4,445596,137,2000s
+86,The Truman Show,1998,Comedy|Drama,Peter Weir,Jim Carrey|Ed Harris|Laura Linney,LV|DK,8.2,1394201,103,1990s
+87,Kill Bill: Vol. 1,2003,Action|Crime|Thriller,Quentin Tarantino,Uma Thurman|David Carradine|Daryl Hannah,DK|LV,8.2,1318464,111,2000s
+88,Cinema Paradiso,1988,Drama|Romance,Giuseppe Tornatore,Philippe Noiret|Enzo Cannavale|Antonella Attili,DK|AT,8.5,319105,174,1980s
+89,Finding Nemo,2003,Adventure|Animation|Comedy,Andrew Stanton|Lee Unkrich,Albert Brooks|Ellen DeGeneres|Alexander Gould,DK|AT,8.2,1219256,100,2000s
+90,No Country for Old Men,2007,Crime|Drama|Thriller,Ethan Coen|Joel Coen,Tommy Lee Jones|Javier Bardem|Josh Brolin,DK|PH,8.2,1205080,122,2000s
+91,Jurassic Park,1993,Adventure|Sci-Fi,Steven Spielberg,Sam Neill|Laura Dern|Jeff Goldblum,DK|PH,8.2,1191708,127,1990s
+92,Reservoir Dogs,1992,Crime|Thriller,Quentin Tarantino,Harvey Keitel|Harvey Keitel|Tim Roth,DK|LV,8.2,1177151,99,1990s
+93,The Sixth Sense,1999,Drama|Mystery|Thriller,M. Night Shyamalan,Bruce Willis|Haley Joel Osment|Toni Collette,DK|LV,8.2,1154287,107,1990s
+94,Oppenheimer,2023,Biography|Drama|History,Christopher Nolan,Cillian Murphy|Emily Blunt|Matt Damon,DK|AT,8.2,1079538,180,2020s
+95,Your Name.,2016,Animation|Drama|Fantasy,Makoto Shinkai,RyÃ»nosuke Kamiki|Mone Kamishiraishi|RyÅ Narita,LV|DK,8.4,400306,106,2010s
+96,A Beautiful Mind,2001,Biography|Drama|Mystery,Ron Howard,Russell Crowe|Ed Harris|Jennifer Connelly,LV|DK,8.2,1059907,135,2000s
+97,Taxi Driver,1976,Crime|Drama,Martin Scorsese,Robert De Niro|Jodie Foster|Cybill Shepherd,DK|AT,8.2,1036026,114,1970s
+98,Die Hard,1988,Action|Thriller,John McTiernan,Bruce Willis|Alan Rickman|Bonnie Bedelia,LV|DK,8.2,1035771,132,1980s
+99,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,Stanley Kubrick,Peter Sellers|Peter Sellers|Peter Sellers,DK|AT,8.3,552887,95,1960s
+100,Snatch,2000,Comedy|Crime,Guy Ritchie,Jason Statham|Brad Pitt|Stephen Graham,DK|AT,8.2,981885,102,2000s
+101,Prisoners,2013,Crime|Drama|Mystery,Denis Villeneuve,Hugh Jackman|Jake Gyllenhaal|Viola Davis,PH|PT,8.2,949933,153,2010s
+102,A Clockwork Orange,1971,Crime|Sci-Fi,Stanley Kubrick,Malcolm McDowell|Patrick Magee|Michael Bates,DK|LV,8.2,941377,136,1970s
+103,Jai Bhim,2021,Crime|Drama,T.J. Gnanavel,Suriya|Lijo Mol Jose|Manikandan K.,PH|ZA,8.6,235537,164,2020s
+104,Modern Times,1936,Comedy|Drama|Romance,Charles Chaplin,Charles Chaplin|Paulette Goddard|Henry Bergman,DK|LV,8.5,286851,87,1930s
+105,Top Gun: Maverick,2022,Action|Drama,Joseph Kosinski,Tom Cruise|Jennifer Connelly|Miles Teller,DK|AT,8.2,896914,130,2020s
+106,Indiana Jones and the Last Crusade,1989,Adventure,Steven Spielberg,Harrison Ford|Sean Connery|Alison Doody,DK|PH,8.2,868278,127,1980s
+107,Full Metal Jacket,1987,Drama|War,Stanley Kubrick,Matthew Modine|R. Lee Ermey|Vincent D'Onofrio,DK|AT,8.2,855920,116,1980s
+108,AmÃ©lie,2001,Comedy|Romance,Jean-Pierre Jeunet,Audrey Tautou|Mathieu Kassovitz|Rufus,DK|AT,8.2,844354,122,2000s
+109,Princess Mononoke,1997,Adventure|Animation|Fantasy,Hayao Miyazaki,YÃ´ji Matsuda|Yuriko Ishida|YÃ»ko Tanaka,DK|LV,8.3,488026,133,1990s
+110,1917,2019,Drama|War,Sam Mendes,Dean-Charles Chapman|George MacKay|Daniel Mays,DK|AT,8.2,780634,119,2010s
+111,Pan's Labyrinth,2006,Drama|Fantasy|War,Guillermo del Toro,Ivana Baquero|Ariadna Gil|Sergi LÃ³pez,DK|LV,8.2,750627,118,2000s
+112,There Will Be Blood,2007,Drama,Paul Thomas Anderson,Daniel Day-Lewis|Paul Dano|Paul Dano,PH|PT,8.2,715298,158,2000s
+113,Green Book,2018,Biography|Comedy|Drama,Peter Farrelly,Viggo Mortensen|Mahershala Ali|Linda Cardellini,AT|MK,8.2,697290,130,2010s
+114,L.A. Confidential,1997,Crime|Drama|Mystery,Curtis Hanson,Kevin Spacey|Russell Crowe|Guy Pearce,DK|LV,8.2,661507,138,1990s
+115,12th Fail,2023,Biography|Drama,Vidhu Vinod Chopra,Vikrant Massey|Harish Khanna|Geeta Agrawal Sharma,ZA|AU,8.7,175277,147,2020s
+116,The Hunt,2012,Drama,Thomas Vinterberg,Mads Mikkelsen|Thomas Bo Larsen|Annika Wedderkopp,DK|LV,8.3,414994,115,2010s
+117,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action|Adventure|Fantasy,Gore Verbinski,Johnny Depp|Geoffrey Rush|Orlando Bloom,DK|AT,8.1,1338415,143,2000s
+118,Casino,1995,Crime|Drama,Martin Scorsese,Robert De Niro|Sharon Stone|Joe Pesci,DK|AT,8.2,624886,178,1990s
+119,Once Upon a Time in America,1984,Crime|Drama,Sergio Leone,Robert De Niro|James Woods|Elizabeth McGovern,DK|AT,8.3,410545,229,1980s
+120,Catch Me If You Can,2002,Biography|Crime|Drama,Steven Spielberg,Leonardo DiCaprio|Tom Hanks|Christopher Walken,PH|PT,8.1,1255840,141,2000s
+121,V for Vendetta,2005,Action|Drama|Sci-Fi,James McTeigue,Hugo Weaving|Natalie Portman|Rupert Graves,LV|PH,8.1,1252432,132,2000s
+122,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi,George Miller,Tom Hardy|Charlize Theron|Nicholas Hoult,LV|DK,8.1,1215396,120,2010s
+123,Gone Girl,2014,Drama|Mystery|Thriller,David Fincher,Ben Affleck|Rosamund Pike|Neil Patrick Harris,DK|LV,8.1,1180885,149,2010s
+124,"Monsters, Inc.",2001,Adventure|Animation|Comedy,Pete Docter|David Silverman|Lee Unkrich,Billy Crystal|John Goodman|Mary Gibbs,LV|PH,8.1,1085516,92,2000s
+125,Harry Potter and the Deathly Hallows: Part 2,2011,Adventure|Family|Fantasy,David Yates,Daniel Radcliffe|Emma Watson|Rupert Grint,DK|MK,8.1,1056531,130,2010s
+126,Spider-Man: No Way Home,2021,Action|Adventure|Fantasy,Jon Watts,Tom Holland|Tom Holland|Zendaya,DK|CR,8.1,1050466,148,2020s
+127,The Terminator,1984,Action|Adventure|Sci-Fi,James Cameron,Arnold Schwarzenegger|Linda Hamilton|Michael Biehn,DK|LV,8.1,1012713,107,1980s
+128,North by Northwest,1959,Adventure|Drama|Mystery,Alfred Hitchcock,Cary Grant|Eva Marie Saint|James Mason,DK|AT,8.3,370426,136,1950s
+129,The Grand Budapest Hotel,2014,Comedy|Drama,Wes Anderson,Ralph Fiennes|F. Murray Abraham|Mathieu Amalric,LV|PH,8.1,981609,99,2010s
+130,The Thing,1982,Horror|Mystery|Sci-Fi,John Carpenter,Kurt Russell|Wilford Brimley|Keith David,DK|LV,8.2,531630,109,1980s
+131,Ratatouille,2007,Adventure|Animation|Comedy,Brad Bird|Jan Pinkava,Brad Garrett|Lou Romano|Patton Oswalt,PH|PT,8.1,958312,111,2000s
+132,Logan,2017,Action|Drama|Sci-Fi,James Mangold,Hugh Jackman|Hugh Jackman|Patrick Stewart,AT|PH,8.1,934504,137,2010s
+133,Howl's Moving Castle,2004,Adventure|Animation|Family,Hayao Miyazaki,Chieko BaishÅ|Takuya Kimura|Tatsuya GashÃ»in,DK|PH,8.2,518446,119,2000s
+134,Inside Out,2015,Adventure|Animation|Comedy,Pete Docter|Ronnie Del Carmen,Amy Poehler|Bill Hader|Lewis Black,DK|LV,8.1,926872,95,2010s
+135,The Big Lebowski,1998,Comedy|Crime,Joel Coen|Ethan Coen,Jeff Bridges|John Goodman|Julianne Moore,LV|AT,8.1,921432,117,1990s
+136,How to Train Your Dragon,2010,Action|Adventure|Animation,Dean DeBlois|Chris Sanders,Jay Baruchel|Gerard Butler|Christopher Mintz-Plasse,LV|DK,8.1,903871,98,2010s
+137,Blade Runner,1982,Action|Drama|Sci-Fi,Ridley Scott,Harrison Ford|Rutger Hauer|Sean Young,DK|LV,8.1,887063,117,1980s
+138,City Lights,1931,Comedy|Drama|Romance,Charles Chaplin,Charles Chaplin|Virginia Cherrill|Florence Lee,DK|AT,8.5,217570,87,1930s
+139,Gran Torino,2008,Drama,Clint Eastwood,Clint Eastwood|Bee Vang|Christopher Carley,DK|PT,8.1,867204,116,2000s
+140,Citizen Kane,1941,Drama|Mystery,Orson Welles,Orson Welles|Joseph Cotten|Joseph Cotten,DK|LV,8.2,495164,119,1940s
+141,Lawrence of Arabia,1962,Adventure|Biography|Drama,David Lean,Peter O'Toole|Alec Guinness|Anthony Quinn,DK|PH,8.3,344245,227,1960s
+142,Project Hail Mary,2026,Adventure|Comedy|Drama,Phil Lord|Christopher Miller,Ryan Gosling|Sandra HÃ¼ller|James Ortiz,DK|LV,8.2,488210,156,2020s
+143,Sunset Boulevard,1950,Drama|Film-Noir,Billy Wilder,William Holden|Gloria Swanson|Erich von Stroheim,LV|DK,8.4,262847,110,1950s
+144,The Great Dictator,1940,Comedy|Drama|War,Charles Chaplin,Charles Chaplin|Charles Chaplin|Paulette Goddard,DK|PH,8.4,259532,125,1940s
+145,Unforgiven,1992,Drama|Western,Clint Eastwood,Clint Eastwood|Gene Hackman|Morgan Freeman,DK|AT,8.2,470881,130,1990s
+146,Fargo,1996,Crime|Drama|Thriller,Joel Coen|Ethan Coen,William H. Macy|Frances McDormand|Steve Buscemi,DK|PH,8.1,792232,98,1990s
+147,12 Years a Slave,2013,Biography|Drama|History,Steve McQueen,Chiwetel Ejiofor|Michael Kenneth Williams|Michael Fassbender,LV|PH,8.1,791765,134,2010s
+148,Vertigo,1958,Mystery|Romance|Thriller,Alfred Hitchcock,James Stewart|Kim Novak|Kim Novak,DK|AT,8.2,461043,128,1950s
+149,Trainspotting,1996,Crime|Drama,Danny Boyle,Ewan McGregor|Ewen Bremner|Jonny Lee Miller,LV|DK,8.1,771940,93,1990s
+150,Million Dollar Baby,2004,Drama|Sport,Clint Eastwood,Hilary Swank|Clint Eastwood|Morgan Freeman,LV|DK,8.1,770629,132,2000s
+151,Jaws,1975,Adventure|Drama|Horror,Steven Spielberg,Roy Scheider|Robert Shaw|Richard Dreyfuss,DK|LV,8.1,745952,124,1970s
+152,Rocky,1976,Drama|Sport,John G. Avildsen,Sylvester Stallone|Talia Shire|Burt Young,DK|LV,8.1,697126,120,1970s
+153,Hacksaw Ridge,2016,Biography|Drama|History,Mel Gibson,Andrew Garfield|Sam Worthington|Luke Bracey,LV|PH,8.1,691274,139,2010s
+154,Paths of Glory,1957,Drama|War,Stanley Kubrick,Kirk Douglas|Ralph Meeker|Adolphe Menjou,DK|AT,8.4,241574,88,1950s
+155,Dead Poets Society,1989,Comedy|Drama,Peter Weir,Robin Williams|Robert Sean Leonard|Ethan Hawke,DK|AT,8.1,663205,128,1980s
+156,The Avengers,2012,Action|Sci-Fi,Joss Whedon,Robert Downey Jr.|Robert Downey Jr.|Chris Evans,LV|PH,8.0,1571713,143,2010s
+157,"Lock, Stock and Two Smoking Barrels",1998,Comedy|Crime,Guy Ritchie,Jason Flemyng|Dexter Fletcher|Nick Moran,LV|DK,8.1,652130,107,1990s
+158,Downfall,2004,Biography|Drama|History,Oliver Hirschbiegel,Bruno Ganz|Alexandra Maria Lara|Ulrich Matthes,DK|LV,8.2,402605,156,2000s
+159,Titanic,1997,Drama|Romance,James Cameron,Leonardo DiCaprio|Kate Winslet|Billy Zane,DK|LV,8.0,1405231,194,1990s
+160,Guardians of the Galaxy,2014,Action|Adventure|Comedy,James Gunn,Chris Pratt|Vin Diesel|Bradley Cooper,LV|PH,8.0,1375151,121,2010s
+161,"Three Billboards Outside Ebbing, Missouri",2017,Comedy|Crime|Drama,Martin McDonagh,Frances McDormand|Woody Harrelson|Sam Rockwell,LV|AT,8.1,612845,115,2010s
+162,Das Boot,1981,Drama|War,Wolfgang Petersen,JÃ¼rgen Prochnow|Herbert GrÃ¶nemeyer|Klaus Wennemann,DK|LV,8.3,289550,149,1980s
+163,Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,Terry Gilliam|Terry Jones,Graham Chapman|Graham Chapman|Graham Chapman,DK|AT,8.1,605939,91,1970s
+164,Deadpool,2016,Action|Comedy|Sci-Fi,Tim Miller,Ryan Reynolds|Ryan Reynolds|Morena Baccarin,DK|AT,8.0,1264740,108,2010s
+165,Singin' in the Rain,1952,Comedy|Musical|Romance,Stanley Donen|Gene Kelly,Gene Kelly|Donald O'Connor|Debbie Reynolds,LV|DK,8.3,284653,103,1950s
+166,Ford v Ferrari,2019,Action|Biography|Drama,James Mangold,Matt Damon|Christian Bale|Jon Bernthal,DK|LV,8.1,581087,152,2010s
+167,A Separation,2011,Drama,Asghar Farhadi,Payman Maadi|Leila Hatami|Sareh Bayat,DK|LV,8.3,279432,123,2010s
+168,Rush,2013,Biography|Drama|Sport,Ron Howard,Daniel BrÃ¼hl|Chris Hemsworth|Olivia Wilde,LV|AT,8.1,563980,123,2010s
+169,Dune: Part One,2021,Action|Adventure|Drama,Denis Villeneuve,TimothÃ©e Chalamet|Rebecca Ferguson|Zendaya,LV|DK,8.0,1081081,155,2020s
+170,Spotlight,2015,Biography|Crime|Drama,Tom McCarthy,Mark Ruffalo|Michael Keaton|Rachel McAdams,LV|AT,8.1,538662,129,2010s
+171,Gone with the Wind,1939,Drama|Romance|War,Victor Fleming,Clark Gable|Vivien Leigh|Thomas Mitchell,DK|AT,8.2,357435,238,1930s
+172,Warrior,2011,Action|Drama|Sport,Gavin O'Connor,Tom Hardy|Nick Nolte|Joel Edgerton,PH|PT,8.1,531897,140,2010s
+173,The Help,2011,Drama,Tate Taylor,Viola Davis|Emma Stone|Octavia Spencer,DK|LV,8.1,531134,146,2010s
+174,The Martian,2015,Adventure|Drama|Sci-Fi,Ridley Scott,Matt Damon|Jessica Chastain|Kristen Wiig,PH|PT,8.0,1023497,144,2010s
+175,To Kill a Mockingbird,1962,Crime|Drama,Robert Mulligan,Gregory Peck|John Megna|Frank Overton,DK|AT,8.2,352233,129,1960s
+176,The Revenant,2015,Action|Drama|Western,Alejandro G. IÃ±Ã¡rritu,Leonardo DiCaprio|Tom Hardy|Will Poulter,PH|PT,8.0,957010,156,2010s
+177,The Exorcist,1973,Horror,William Friedkin,Ellen Burstyn|Max von Sydow|Linda Blair,DK|LV,8.1,502048,122,1970s
+178,Punjab '95,2026,Biography|Crime|Drama,Honey Trehan,Diljit Dosanjh|Saurabh Sachdeva|Veer Abhinav,NZ|IN,8.9,105726,169,2020s
+179,Donnie Darko,2001,Drama|Mystery|Sci-Fi,Richard Kelly,Jake Gyllenhaal|Jena Malone|Mary McDonnell,PH|PT,8.0,916590,113,2000s
+180,Slumdog Millionaire,2008,Crime|Drama|Romance,Danny Boyle|Loveleen Tandan,Dev Patel|Freida Pinto|Saurabh Shukla,DK|PH,8.0,913292,120,2000s
+181,The Incredibles,2004,Action|Adventure|Animation,Brad Bird,Craig T. Nelson|Craig T. Nelson|Samuel L. Jackson,DK|AT,8.0,911297,115,2000s
+182,Stand by Me,1986,Adventure|Drama,Rob Reiner,Wil Wheaton|River Phoenix|Corey Feldman,LV|DK,8.1,491840,89,1980s
+183,Incendies,2010,Drama|Mystery|War,Denis Villeneuve,Lubna Azabal|MÃ©lissa DÃ©sormeaux-Poulin|Maxim Gaudette,DK|LV,8.3,256279,131,2010s
+184,Black Swan,2010,Drama|Thriller,Darren Aronofsky,Natalie Portman|Natalie Portman|Mila Kunis,LV|PH,8.0,894531,108,2010s
+185,The Imitation Game,2014,Biography|Drama|Thriller,Morten Tyldum,Benedict Cumberbatch|Keira Knightley|Matthew Goode,LV|PH,8.0,882430,114,2010s
+186,Room,2015,Drama|Thriller,Lenny Abrahamson,Brie Larson|Jacob Tremblay|Sean Bridgers,PH|PT,8.1,483045,118,2010s
+187,Kill Bill: Vol. 2,2004,Action|Crime|Thriller,Quentin Tarantino,Uma Thurman|David Carradine|Michael Madsen,LV|MK,8.0,876332,137,2000s
+188,The Wizard of Oz,1939,Adventure|Family|Fantasy,Victor Fleming|George Cukor|Norman Taurog|Richard Thorpe|King Vidor,Judy Garland|Frank Morgan|Ray Bolger,LV|DK,8.1,470781,102,1930s
+189,Sin City,2005,Crime|Thriller,Frank Miller|Robert Rodriguez,Mickey Rourke|Clive Owen|Bruce Willis,DK|PH,8.0,822685,124,2000s
+190,Dangal,2016,Action|Biography|Drama,Nitesh Tiwari,Aamir Khan|Sakshi Tanwar|Fatima Sana Shaikh,PH|PT,8.3,246400,161,2010s
+191,La La Land,2016,Comedy|Drama|Music,Damien Chazelle,Ryan Gosling|Emma Stone|Rosemarie DeWitt,CR|LV,8.0,772395,128,2010s
+192,Blade Runner 2049,2017,Action|Drama|Mystery,Denis Villeneuve,Harrison Ford|Ryan Gosling|Ana de Armas,LU|AT,8.0,762984,164,2010s
+193,Casino Royale,2006,Action|Adventure|Thriller,Martin Campbell,Daniel Craig|Eva Green|Judi Dench,PH|PT,8.0,751122,144,2000s
+194,My Neighbor Totoro,1988,Adventure|Animation|Comedy,Hayao Miyazaki,Hitoshi Takagi|Noriko Hidaka|Chika Sakamoto,DK|PH,8.1,436871,86,1980s
+195,Groundhog Day,1993,Comedy|Drama|Fantasy,Harold Ramis,Bill Murray|Andie MacDowell|Chris Elliott,DK|LV,8.0,739084,101,1990s
+196,Some Like It Hot,1959,Comedy|Music|Romance,Billy Wilder,Marilyn Monroe|Tony Curtis|Tony Curtis,LV|DK,8.2,306278,121,1950s
+197,The King's Speech,2010,Biography|Drama|History,Tom Hooper,Colin Firth|Geoffrey Rush|Helena Bonham Carter,LV|DK,8.0,735291,118,2010s
+198,Her,2013,Drama|Romance|Sci-Fi,Spike Jonze,Joaquin Phoenix|Amy Adams|Scarlett Johansson,DK|LV,8.0,731144,126,2010s
+199,The Sting,1973,Comedy|Crime|Drama,George Roy Hill,Paul Newman|Robert Redford|Robert Shaw,DK|AT,8.2,304249,129,1970s
+200,Like Stars on Earth,2007,Drama|Family,Aamir Khan,Darsheel Safary|Aamir Khan|Tisca Chopra,DK|PH,8.3,234812,162,2000s
+201,For a Few Dollars More,1965,Drama|Western,Sergio Leone,Clint Eastwood|Lee Van Cleef|Gian Maria VolontÃ¨,DK|AT,8.2,302405,132,1960s
+202,Into the Wild,2007,Adventure|Biography|Drama,Sean Penn,Emile Hirsch|Vince Vaughn|Catherine Keener,DK|LV,8.0,698066,148,2000s
+203,The Bourne Ultimatum,2007,Action|Mystery|Thriller,Paul Greengrass,Matt Damon|Edgar RamÃ­rez|Joan Allen,PH|PT,8.0,686890,115,2000s
+204,Raging Bull,1980,Biography|Drama|Sport,Martin Scorsese,Robert De Niro|Cathy Moriarty|Joe Pesci,DK|AT,8.1,412483,129,1980s
+205,12 Monkeys,1995,Mystery|Sci-Fi|Thriller,Terry Gilliam,Bruce Willis|Madeleine Stowe|Brad Pitt,DK|AT,8.0,682383,129,1990s
+206,Zootopia,2016,Action|Adventure|Animation,Byron Howard|Rich Moore|Jared Bush,Ginnifer Goodwin|Jason Bateman|Idris Elba,DK|LV,8.0,645391,108,2010s
+207,Hotel Rwanda,2004,Biography|Drama|History,Terry George,Don Cheadle|Sophie Okonedo|Joaquin Phoenix,LV|PH,8.1,393803,121,2000s
+208,The Elephant Man,1980,Biography|Drama,David Lynch,Anthony Hopkins|John Hurt|Anne Bancroft,DK|LV,8.2,283182,124,1980s
+209,The Apartment,1960,Comedy|Drama|Romance,Billy Wilder,Jack Lemmon|Shirley MacLaine|Fred MacMurray,DK|AT,8.3,222007,125,1960s
+210,Blood Diamond,2006,Adventure|Drama|Thriller,Edward Zwick,Leonardo DiCaprio|Djimon Hounsou|Jennifer Connelly,LV|DK,8.0,629043,143,2000s
+211,The Pursuit of Happyness,2006,Biography|Drama,Gabriele Muccino,Will Smith|Thandiwe Newton|Jaden Smith,DK|LV,8.0,627410,117,2000s
+212,The Deer Hunter,1978,Drama|War,Michael Cimino,Robert De Niro|Christopher Walken|John Cazale,DK|AT,8.1,388078,183,1970s
+213,The Great Escape,1963,Adventure|Drama|Thriller,John Sturges,Steve McQueen|James Garner|Richard Attenborough,DK|LV,8.2,279023,172,1960s
+214,Avatar,2009,Action|Adventure|Fantasy,James Cameron,Sam Worthington|Zoe SaldaÃ±a|Sigourney Weaver,LV|PH,7.9,1509870,162,2000s
+215,Before Sunrise,1995,Comedy|Drama|Romance,Richard Linklater,Ethan Hawke|Julie Delpy|Andrea Eckert,LV|DK,8.1,381852,101,1990s
+216,Chinatown,1974,Drama|Mystery|Thriller,Roman Polanski,Jack Nicholson|Faye Dunaway|John Huston,DK|PH,8.1,378565,130,1970s
+217,Soorarai Pottru,2020,Drama,Sudha Kongara,Suriya|Aparna Balamurali|Paresh Rawal,PH|PT,8.6,132475,153,2020s
+218,Rain Man,1988,Drama,Barry Levinson,Dustin Hoffman|Tom Cruise|Valeria Golino,DK|AT,8.0,587639,133,1980s
+219,Iron Man,2008,Action|Adventure|Sci-Fi,Jon Favreau,Robert Downey Jr.|Gwyneth Paltrow|Terrence Howard,LV|PH,7.9,1238672,126,2000s
+220,Hachi: A Dog's Tale,2009,Biography|Drama|Family,Lasse HallstrÃ¶m,Richard Gere|Joan Allen|Cary-Hiroyuki Tagawa,DK|PH,8.1,346316,93,2000s
+221,Beauty and the Beast,1991,Animation|Family|Fantasy,Gary Trousdale|Kirk Wise,Paige O'Hara|Robby Benson|Jesse Corti,DK|PH,8.0,508054,84,1990s
+222,Aladdin,1992,Adventure|Animation|Comedy,Ron Clements|John Musker,Scott Weinger|Robin Williams|Robin Williams,DK|PH,8.0,503728,90,1990s
+223,The Father,2020,Drama|Mystery,Florian Zeller,Anthony Hopkins|Olivia Colman|Mark Gatiss,LV|DK,8.2,247988,97,2020s
+224,The Princess Bride,1987,Adventure|Comedy|Family,Rob Reiner,Cary Elwes|Mandy Patinkin|Robin Wright,DK|AT,8.0,489113,98,1980s
+225,Witness for the Prosecution,1957,Crime|Drama|Mystery,Billy Wilder,Tyrone Power|Marlene Dietrich|Charles Laughton,DK|AT,8.4,163481,116,1950s
+226,The Secret in Their Eyes,2009,Drama|Mystery|Romance,Juan JosÃ© Campanella,Ricardo DarÃ­n|Soledad Villamil|Pablo Rago,LV|DK,8.2,244219,129,2000s
+227,Platoon,1986,Drama|War,Oliver Stone,Charlie Sheen|Tom Berenger|Willem Dafoe,LV|DK,8.0,475117,120,1980s
+228,Klaus,2019,Adventure|Animation|Comedy,Sergio Pablos|Carlos MartÃ­nez LÃ³pez,Jason Schwartzman|J.K. Simmons|Rashida Jones,PH|ZA,8.2,240571,96,2010s
+229,Thor: Ragnarok,2017,Action|Adventure|Comedy,Taika Waititi,Chris Hemsworth|Tom Hiddleston|Cate Blanchett,LV|AT,7.9,905174,130,2010s
+230,Before Sunset,2004,Drama|Romance,Richard Linklater,Ethan Hawke|Julie Delpy|Vernon Dobtcheff,LV|PH,8.1,318159,80,2000s
+231,Knives Out,2019,Comedy|Crime|Drama,Rian Johnson,Daniel Craig|Chris Evans|Ana de Armas,DK|LV,7.9,885700,130,2010s
+232,Arrival,2016,Drama|Mystery|Sci-Fi,Denis Villeneuve,Amy Adams|Jeremy Renner|Forest Whitaker,AT|PH,7.9,873750,116,2010s
+233,Soul,2020,Adventure|Animation|Comedy,Pete Docter|Kemp Powers,Jamie Foxx|Tina Fey|Graham Norton,LV|DK,8.0,454871,100,2020s
+234,The Wild Robot,2024,Adventure|Animation|Family,Chris Sanders,Lupita Nyong'o|Lupita Nyong'o|Pedro Pascal,CR|DK,8.2,233250,102,2020s
+235,Shrek,2001,Adventure|Animation|Comedy,Andrew Adamson|Vicky Jenson,Mike Myers|Mike Myers|Mike Myers,LV|PH,7.9,817621,90,2000s
+236,Edge of Tomorrow,2014,Action|Adventure|Sci-Fi,Doug Liman,Tom Cruise|Emily Blunt|Bill Paxton,LV|PH,7.9,811324,113,2010s
+237,X-Men: Days of Future Past,2014,Action|Adventure|Sci-Fi,Bryan Singer,Patrick Stewart|Ian McKellen|Hugh Jackman,PH|PT,7.9,792696,132,2010s
+238,Monty Python's Life of Brian,1979,Comedy,Terry Jones,Graham Chapman|Graham Chapman|Graham Chapman,DK|LV,8.0,435132,94,1970s
+239,Harry Potter and the Prisoner of Azkaban,2004,Adventure|Family|Fantasy,Alfonso CuarÃ³n,Daniel Radcliffe|Emma Watson|Rupert Grint,DK|LV,7.9,773945,142,2000s
+240,M,1931,Crime|Mystery|Thriller,Fritz Lang,Peter Lorre|Ellen Widmann|Inge Landgut,DK|AT,8.3,183773,99,1930s
+241,District 9,2009,Action|Sci-Fi|Thriller,Neill Blomkamp,Sharlto Copley|David James|Jason Cope,LV|PH,7.9,755737,112,2000s
+242,Double Indemnity,1944,Crime|Drama|Film-Noir,Billy Wilder,Fred MacMurray|Barbara Stanwyck|Edward G. Robinson,DK|AT,8.3,182597,107,1940s
+243,The Sound of Music,1965,Biography|Drama|Family,Robert Wise,Julie Andrews|Christopher Plummer|Eleanor Parker,CR|DK,8.1,293487,174,1960s
+244,Life of Pi,2012,Adventure|Drama|Fantasy,Ang Lee,Suraj Sharma|Irrfan Khan|Adil Hussain,LV|PH,7.9,703760,127,2010s
+245,Toy Story 2,1999,Adventure|Animation|Comedy,John Lasseter|Ash Brannon|Lee Unkrich,Tom Hanks|Tim Allen|Joan Cusack,DK|PH,7.9,680209,92,1990s
+246,Bohemian Rhapsody,2018,Biography|Drama|Music,Bryan Singer,Rami Malek|Lucy Boynton|Gwilym Lee,LV|AT,7.9,651792,134,2010s
+247,Ben-Hur,1959,Adventure|Drama,William Wyler,Charlton Heston|Jack Hawkins|Stephen Boyd,PH|PT,8.1,272507,212,1950s
+248,Memories of Murder,2003,Crime|Drama|Mystery,Bong Joon Ho,Song Kang-ho|Kim Sang-kyung|Kim Roe-ha,DK|PH,8.1,272186,131,2000s
+249,Star Trek,2009,Action|Adventure|Sci-Fi,J.J. Abrams,Chris Pine|Zachary Quinto|Simon Pegg,LV|PH,7.9,640073,127,2000s
+250,Scent of a Woman,1992,Drama,Martin Brest,Al Pacino|Chris O'Donnell|James Rebhorn,DK|LV,8.0,374399,156,1990s
+251,The Iron Giant,1999,Action|Adventure|Animation,Brad Bird,Eli Marienthal|Harry Connick Jr.|Jennifer Aniston,DK|LV,8.1,263719,86,1990s
+252,The Perks of Being a Wallflower,2012,Drama,Stephen Chbosky,Logan Lerman|Emma Watson|Ezra Miller,LV|PH,7.9,602617,103,2010s
+253,Metropolis,1927,Drama|Sci-Fi,Fritz Lang,Brigitte Helm|Brigitte Helm|Brigitte Helm,PH|PT,8.2,202389,150,1920s
+254,Children of Men,2006,Drama|Sci-Fi|Thriller,Alfonso CuarÃ³n,Julianne Moore|Clive Owen|Chiwetel Ejiofor,PH|PT,7.9,569547,109,2000s
+255,Magnolia,1999,Drama,Paul Thomas Anderson,Tom Cruise|Jason Robards|Julianne Moore,DK|AT,8.0,351719,188,1990s
+256,Dallas Buyers Club,2013,Biography|Drama,Jean-Marc VallÃ©e,Matthew McConaughey|Jennifer Garner|Jared Leto,LV|PH,7.9,551066,117,2010s
+257,The Bridge on the River Kwai,1957,Adventure|Drama|War,David Lean,William Holden|Alec Guinness|Jack Hawkins,DK|LV,8.1,249845,161,1950s
+258,Mystic River,2003,Crime|Drama|Mystery,Clint Eastwood,Sean Penn|Tim Robbins|Kevin Bacon,DK|PH,7.9,527571,138,2000s
+259,Bicycle Thieves,1948,Drama,Vittorio De Sica,Lamberto Maggiorani|Enzo Staiola|Lianella Carell,DK|AT,8.2,192613,89,1940s
+260,Wild Tales,2014,Comedy|Drama|Thriller,DamiÃ¡n Szifron,DarÃ­o Grandinetti|MarÃ­a Marull|MÃ³nica Villa,DK|LV,8.1,240407,122,2010s
+261,In Bruges,2008,Comedy|Crime|Drama,Martin McDonagh,Colin Farrell|Brendan Gleeson|CiarÃ¡n Hinds,LV|PH,7.9,496356,107,2000s
+262,Jojo Rabbit,2019,Comedy|Drama|War,Taika Waititi,Roman Griffin Davis|Thomasin McKenzie|Scarlett Johansson,DK|AT,7.9,491870,108,2010s
+263,Guardians of the Galaxy Vol. 3,2023,Action|Adventure|Comedy,James Gunn,Chris Pratt|Chris Pratt|Chukwudi Iwuji,DK|AT,7.9,480615,150,2020s
+264,Big Fish,2003,Adventure|Drama|Fantasy,Tim Burton,Ewan McGregor|Albert Finney|Billy Crudup,PH|PT,7.9,478890,125,2000s
+265,Zack Snyder's Justice League,2021,Adventure|Fantasy|Sci-Fi,Zack Snyder,Henry Cavill|Henry Cavill|Ben Affleck,PH|PT,7.9,477469,242,2020s
+266,Dances with Wolves,1990,Adventure|Drama|Western,Kevin Costner,Kevin Costner|Mary McDonnell|Graham Greene,DK|LV,8.0,312042,181,1990s
+267,E.T. the Extra-Terrestrial,1982,Adventure|Family|Sci-Fi,Steven Spielberg,Henry Thomas|Drew Barrymore|Peter Coyote,DK|PH,7.9,474810,115,1980s
+268,La haine,1995,Crime|Drama,Mathieu Kassovitz,Vincent Cassel|Hubert KoundÃ©|SaÃ¯d Taghmaoui,DK|PT,8.1,229818,98,1990s
+269,The Batman,2022,Action|Crime|Drama,Matt Reeves,Robert Pattinson|Robert Pattinson|ZoÃ« Kravitz,MK|FR,7.8,940669,176,2020s
+270,Captain America: Civil War,2016,Action|Sci-Fi,Anthony Russo|Joe Russo,Chris Evans|Chris Evans|Robert Downey Jr.,LV|PH,7.8,939586,147,2010s
+271,The Graduate,1967,Comedy|Drama|Romance,Mike Nichols,Dustin Hoffman|Anne Bancroft|Katharine Ross,LV|DK,8.0,303152,106,1960s
+272,The Hobbit: An Unexpected Journey,2012,Adventure|Fantasy,Peter Jackson,Martin Freeman|Ian McKellen|Richard Armitage,DK|PT,7.8,933508,169,2010s
+273,PK,2014,Comedy|Drama|Musical,Rajkumar Hirani,Aamir Khan|Anushka Sharma|Sanjay Dutt,PH|ZA,8.1,225010,153,2010s
+274,Dog Day Afternoon,1975,Biography|Crime|Drama,Sidney Lumet,Al Pacino|John Cazale|Penelope Allen,DK|PH,8.0,293295,125,1970s
+275,Capernaum,2018,Drama,Nadine Labaki,Zain Al Rafeea|Yordanos Shifera|Boluwatife Treasure Bankole,DK|LV,8.4,125937,126,2010s
+276,Mulholland Drive,2001,Drama|Mystery|Thriller,David Lynch,Naomi Watts|Naomi Watts|Laura Harring,LV|DK,7.9,431792,147,2000s
+277,Get Out,2017,Horror|Mystery|Thriller,Jordan Peele,Daniel Kaluuya|Allison Williams|Bradley Whitford,LV|AT,7.8,830869,104,2010s
+278,The Social Network,2010,Biography|Drama,David Fincher,Jesse Eisenberg|Andrew Garfield|Justin Timberlake,LV|PH,7.8,825327,120,2010s
+279,The Seventh Seal,1957,Drama|Fantasy,Ingmar Bergman,Max von Sydow|Gunnar BjÃ¶rnstrand|Bengt Ekerot,DK|PT,8.1,216756,96,1950s
+280,Dunkirk,2017,Action|Drama|History,Christopher Nolan,Fionn Whitehead|Barry Keoghan|Mark Rylance,LV|DK,7.8,820503,106,2010s
+281,The Nightmare Before Christmas,1993,Adventure|Animation|Family,Henry Selick,Danny Elfman|Danny Elfman|Danny Elfman,CR|DK,7.9,413869,76,1990s
+282,Skyfall,2012,Action|Adventure|Thriller,Sam Mendes,Daniel Craig|Javier Bardem|Naomie Harris,LV|AT,7.8,777507,143,2010s
+283,K.G.F: Chapter 2,2022,Action|Crime|Drama,Prashanth Neel,Yash|Sanjay Dutt|Raveena Tandon,AT|PH,8.2,171074,166,2020s
+284,Drive,2011,Action|Drama,Nicolas Winding Refn,Ryan Gosling|Carey Mulligan|Bryan Cranston,PH|PT,7.8,770107,100,2010s
+285,Rogue One: A Star Wars Story,2016,Action|Adventure|Sci-Fi,Gareth Edwards,Felicity Jones|Diego Luna|Alan Tudyk,LV|DK,7.8,762378,133,2010s
+286,The Hobbit: The Desolation of Smaug,2013,Adventure|Fantasy,Peter Jackson,Ian McKellen|Martin Freeman|Richard Armitage,DK|LV,7.8,758482,161,2010s
+287,The Curious Case of Benjamin Button,2008,Drama|Fantasy|Romance,David Fincher,Brad Pitt|Cate Blanchett|Tilda Swinton,DK|PH,7.8,751239,166,2000s
+288,Home Alone,1990,Comedy|Family,Chris Columbus,Macaulay Culkin|Joe Pesci|Daniel Stern,LV|DK,7.8,751143,103,1990s
+289,Hamilton,2020,Biography|Drama|History,Thomas Kail,Lin-Manuel Miranda|Phillipa Soo|Leslie Odom Jr.,PH|ZA,8.3,141631,160,2020s
+290,The Hateful Eight,2015,Crime|Drama|Mystery,Quentin Tarantino,Samuel L. Jackson|Kurt Russell|Jennifer Jason Leigh,DK|LV,7.8,727636,168,2010s
+291,Amores Perros,2000,Drama|Thriller,Alejandro G. IÃ±Ã¡rritu,Emilio EchevarrÃ­a|Gael GarcÃ­a Bernal|Goya Toledo,DK|AT,8.0,272267,154,2000s
+292,Barry Lyndon,1975,Adventure|Drama|War,Stanley Kubrick,Ryan O'Neal|Marisa Berenson|Patrick Magee,PT|ZA,8.1,207031,185,1970s
+293,The Handmaiden,2016,Drama|Romance|Thriller,Park Chan-wook,Kim Min-hee|Ha Jung-woo|Cho Jin-woong,DK|PH,8.1,206699,145,2010s
+294,Dial M for Murder,1954,Crime|Drama|Mystery,Alfred Hitchcock,Ray Milland|Grace Kelly|Robert Cummings,DK|AT,8.1,206161,105,1950s
+295,Lion,2016,Biography|Drama,Garth Davis,Dev Patel|Nicole Kidman|Rooney Mara,AT|PH,8.0,268032,118,2010s
+296,The Notebook,2004,Drama|Romance,Nick Cassavetes,Gena Rowlands|James Garner|Rachel McAdams,LV|AT,7.8,697860,123,2000s
+297,In the Name of the Father,1993,Biography|Crime|Drama,Jim Sheridan,Daniel Day-Lewis|Pete Postlethwaite|Anthony Brophy,DK|PT,8.1,203980,133,1990s
+298,Cast Away,2000,Adventure|Drama|Romance,Robert Zemeckis,Tom Hanks|Helen Hunt|Paul Sanchez,LV|DK,7.8,693503,143,2000s
+299,Boyhood,2014,Comedy|Drama,Richard Linklater,Ellar Coltrane|Patricia Arquette|Ethan Hawke,LV|PH,7.9,383029,165,2010s
+300,Dil Bechara,2020,Comedy|Drama|Romance,Mukesh Chhabra,Sushant Singh Rajput|Sushant Singh Rajput|Sanjana Sanghi,ZA|AU,8.3,138089,101,2020s
+301,Mary and Max,2009,Animation|Comedy|Drama,Adam Elliot,Toni Collette|Philip Seymour Hoffman|Eric Bana,DK|PH,8.1,202713,92,2000s
+302,Harakiri,1962,Drama|Mystery,Masaki Kobayashi,Tatsuya Nakadai|Akira Ishihama|Shima Iwashita,DK|PT,8.6,93058,133,1960s
+303,Nightcrawler,2014,Crime|Drama|Thriller,Dan Gilroy,Jake Gyllenhaal|Rene Russo|Bill Paxton,PH|PT,7.8,676627,117,2010s
+304,Shershaah,2021,Action|Biography|Drama,Vishnuvardhan,Sidharth Malhotra|Sidharth Malhotra|Kiara Advani,PH|ZA,8.3,137132,135,2020s
+305,Marriage Story,2019,Drama|Romance,Noah Baumbach,Adam Driver|Scarlett Johansson|Julia Greer,LV|DK,7.9,373951,137,2010s
+306,Rosemary's Baby,1968,Drama|Horror,Roman Polanski,Mia Farrow|John Cassavetes|Ruth Gordon,LV|DK,8.0,259900,137,1960s
+307,Rashomon,1950,Crime|Drama|Mystery,Akira Kurosawa,ToshirÅ Mifune|Machiko KyÃ´|Masayuki Mori,DK|AT,8.1,197946,88,1950s
+308,Shaun of the Dead,2004,Comedy|Horror,Edgar Wright,Simon Pegg|Nick Frost|Kate Ashfield,PH|PT,7.8,642747,99,2000s
+309,The Third Man,1949,Drama|Film-Noir|Mystery,Carol Reed,Orson Welles|Joseph Cotten|Alida Valli,DK|AT,8.1,196667,104,1940s
+310,Apocalypto,2006,Action|Adventure|Drama,Mel Gibson,Gerardo Taracena|Raoul Max Trujillo|Dalia HernÃ¡ndez,PH|PT,7.9,362575,139,2000s
+311,Back to the Future Part II,1989,Adventure|Comedy|Sci-Fi,Robert Zemeckis,Michael J. Fox|Michael J. Fox|Michael J. Fox,DK|AT,7.8,626510,108,1980s
+312,The Bourne Identity,2002,Action|Mystery|Thriller,Doug Liman,Franka Potente|Matt Damon|Chris Cooper,LV|DK,7.8,617806,119,2000s
+313,Gandhi,1982,Biography|Drama|History,Richard Attenborough,Ben Kingsley|John Gielgud|Rohini Hattangadi,DK|PH,8.0,246643,191,1980s
+314,Ip Man,2008,Action|Biography|Drama,Wilson Yip,Donnie Yen|Simon Yam|Louis Fan,DK|PH,8.0,244662,106,2000s
+315,Hot Fuzz,2007,Action|Comedy|Mystery,Edgar Wright,Simon Pegg|Nick Frost|Martin Freeman,LV|AT,7.8,570805,121,2000s
+316,Edward Scissorhands,1990,Drama|Fantasy|Romance,Tim Burton,Johnny Depp|Winona Ryder|Dianne Wiest,DK|CR,7.8,568398,105,1990s
+317,Ran,1985,Action|Drama|War,Akira Kurosawa,Tatsuya Nakadai|Akira Terao|Jinpachi Nezu,DK|PH,8.2,153583,160,1980s
+318,Little Miss Sunshine,2006,Comedy|Drama,Jonathan Dayton|Valerie Faris,Steve Carell|Toni Collette|Greg Kinnear,PH|PT,7.8,563180,101,2000s
+319,Network,1976,Drama,Sidney Lumet,Faye Dunaway|William Holden|Peter Finch,DK|AT,8.1,186839,121,1970s
+320,Big Hero 6,2014,Action|Adventure|Animation,Don Hall|Chris Williams,Ryan Potter|Scott Adsit|Jamie Chung,LV|DK,7.8,559152,102,2010s
+321,Butch Cassidy and the Sundance Kid,1969,Adventure|Biography|Crime,George Roy Hill,Paul Newman|Robert Redford|Katharine Ross,LV|DK,8.0,239138,110,1960s
+322,The Wrestler,2008,Drama|Sport,Darren Aronofsky,Mickey Rourke|Marisa Tomei|Evan Rachel Wood,PH|PT,7.9,332093,109,2000s
+323,The Big Short,2015,Biography|Comedy|Drama,Adam McKay,Christian Bale|Steve Carell|Ryan Gosling,LV|PH,7.8,544569,130,2010s
+324,All About Eve,1950,Drama,Joseph L. Mankiewicz,Bette Davis|Anne Baxter|George Sanders,DK|LV,8.2,150089,138,1950s
+325,The Girl with the Dragon Tattoo,2011,Crime|Drama|Mystery,David Fincher,Daniel Craig|Rooney Mara|Christopher Plummer,DK|PH,7.8,531262,158,2010s
+326,Training Day,2001,Crime|Drama|Thriller,Antoine Fuqua,Denzel Washington|Ethan Hawke|Scott Glenn,LV|AT,7.8,521964,122,2000s
+327,Captain Phillips,2013,Action|Biography|Crime,Paul Greengrass,Tom Hanks|Barkhad Abdi|Barkhad Abdirahman,LV|PH,7.8,521433,134,2010s
+328,CODA,2021,Comedy|Drama|Music,Sian Heder,Emilia Jones|Marlee Matlin|Troy Kotsur,DK|PH,8.0,230981,111,2020s
+329,Dhurandhar,2025,Action|Crime|Thriller,Aditya Dhar,Ranveer Singh|Ranveer Singh|Akshaye Khanna,AT|PT,8.2,148163,214,2020s
+330,On the Waterfront,1954,Crime|Drama|Thriller,Elia Kazan,Marlon Brando|Karl Malden|Lee J. Cobb,DK|AT,8.1,180018,108,1950s
+331,Akira,1988,Action|Animation|Drama,Katsuhiro ÅŒtomo,Mitsuo Iwata|Nozomu Sasaki|Mami Koyama,DK|PH,8.0,229618,124,1980s
+332,Come and See,1985,Drama|Thriller|War,Elem Klimov,Aleksey Kravchenko|Olga Mironova|Liubomiras Laucevicius,DK|PH,8.3,125280,142,1980s
+333,Almost Famous,2000,Adventure|Comedy|Drama,Cameron Crowe,Billy Crudup|Patrick Fugit|Kate Hudson,DK|PH,7.9,316482,122,2000s
+334,A Silent Voice: The Movie,2016,Animation|Drama,Naoko Yamada,Miyu Irino|Saori Hayami|Aoi YÃ»ki,LV|PH,8.2,147298,130,2010s
+335,The Last Samurai,2003,Action|Drama,Edward Zwick,Tom Cruise|Ken Watanabe|Billy Connolly,DK|LV,7.8,507524,154,2000s
+336,Predator,1987,Action|Adventure|Horror,John McTiernan,Arnold Schwarzenegger|Carl Weathers|Kevin Peter Hall,LV|DK,7.8,504475,107,1980s
+337,The Kid,1921,Comedy|Drama|Family,Charles Chaplin,Charles Chaplin|Edna Purviance|Jackie Coogan,DK|PT,8.2,146550,68,1920s
+338,Fantastic Mr. Fox,2009,Adventure|Animation|Comedy,Wes Anderson,George Clooney|Meryl Streep|Bill Murray,PH|PT,7.9,308505,87,2000s
+339,Boogie Nights,1997,Drama,Paul Thomas Anderson,Mark Wahlberg|Mark Wahlberg|Julianne Moore,LV|PH,7.9,308217,155,1990s
+340,American Gangster,2007,Biography|Crime|Drama,Ridley Scott,Denzel Washington|Russell Crowe|Chiwetel Ejiofor,AT|PH,7.8,491045,157,2000s
+341,Ghostbusters,1984,Action|Comedy|Fantasy,Ivan Reitman,Bill Murray|Dan Aykroyd|Sigourney Weaver,DK|LV,7.8,488975,105,1980s
+342,Yojimbo,1961,Action|Drama|Thriller,Akira Kurosawa,ToshirÅ Mifune|ToshirÅ Mifune|EijirÅ TÅno,DK|PT,8.2,144089,110,1960s
+343,The Irishman,2019,Biography|Crime|Drama,Martin Scorsese,Robert De Niro|Al Pacino|Joe Pesci,DK|AT,7.8,476869,209,2010s
+344,The Breakfast Club,1985,Comedy|Drama,John Hughes,Emilio Estevez|Judd Nelson|Molly Ringwald,DK|PH,7.8,475568,97,1980s
+345,Obsession,2025,Horror|Romance|Thriller,Curry Barker,Michael Johnston|Inde Navarrette|Cooper Tomlinson,DK|AT,7.9,300657,109,2020s
+346,The Treasure of the Sierra Madre,1948,Adventure|Drama|Western,John Huston,Humphrey Bogart|Walter Huston|Tim Holt,DK|AT,8.2,142236,126,1940s
+347,The Gentlemen,2019,Action|Comedy|Crime,Guy Ritchie,Matthew McConaughey|Charlie Hunnam|Michelle Dockery,LV|DK,7.8,462213,113,2010s
+348,I'm Still Here,2024,Biography|Drama|History,Walter Salles,Fernanda Torres|Fernanda Montenegro|Selton Mello,DK|LV,8.1,170663,137,2020s
+349,The Invisible Guest,2016,Crime|Drama|Mystery,Oriol Paulo,Mario Casas|Ana Wagener|Jose Coronado,DK|PH,8.0,215697,106,2010s
+350,Annie Hall,1977,Comedy|Romance,Woody Allen,Woody Allen|Diane Keaton|Tony Roberts,DK|AT,7.9,292245,93,1970s
+351,Star Wars: Episode VII - The Force Awakens,2015,Action|Adventure|Sci-Fi,J.J. Abrams,Daisy Ridley|John Boyega|Oscar Isaac,DK|LV,7.7,1031883,138,2010s
+352,Captain America: The Winter Soldier,2014,Action|Adventure|Sci-Fi,Anthony Russo|Joe Russo,Chris Evans|Chris Evans|Samuel L. Jackson,DK|LV,7.7,981588,136,2010s
+353,Planet of the Apes,1968,Adventure|Sci-Fi,Franklin J. Schaffner,Charlton Heston|Roddy McDowall|Kim Hunter,DK|PT,8.0,210605,112,1960s
+354,About Time,2013,Comedy|Drama|Fantasy,Richard Curtis,Domhnall Gleeson|Rachel McAdams|Bill Nighy,DK|PH,7.8,439177,123,2010s
+355,Cinderella Man,2005,Biography|Drama|Romance,Ron Howard,Russell Crowe|RenÃ©e Zellweger|Craig Bierko,LV|PH,8.0,210267,144,2000s
+356,Harry Potter and the Sorcerer's Stone,2001,Adventure|Family|Fantasy,Chris Columbus,Daniel Radcliffe|Rupert Grint|Emma Watson,LV|DK,7.7,960201,152,2000s
+357,The Hangover,2009,Comedy,Todd Phillips,Zach Galifianakis|Bradley Cooper|Justin Bartha,DK|PH,7.7,939034,100,2000s
+358,Star Wars: Episode III - Revenge of the Sith,2005,Action|Adventure|Fantasy,George Lucas,Hayden Christensen|Natalie Portman|Ewan McGregor,DK|LV,7.7,930041,140,2000s
+359,Gravity,2013,Drama|Sci-Fi|Thriller,Alfonso CuarÃ³n,Sandra Bullock|George Clooney|Ed Harris,LV|PH,7.7,903932,91,2010s
+360,Baahubali 2: The Conclusion,2017,Action|Drama,S.S. Rajamouli,Prabhas|Prabhas|Rana Daggubati,AT|PH,8.2,135777,167,2010s
+361,Ferris Bueller's Day Off,1986,Comedy,John Hughes,Matthew Broderick|Alan Ruck|Mia Sara,DK|LV,7.8,418949,103,1980s
+362,The Holdovers,2023,Comedy|Drama,Alexander Payne,Paul Giamatti|Da'Vine Joy Randolph|Dominic Sessa,DK|AT,7.9,272089,133,2020s
+363,The Fighter,2010,Action|Biography|Drama,David O. Russell,Mark Wahlberg|Christian Bale|Amy Adams,MK|PH,7.8,410033,116,2010s
+364,How to Train Your Dragon 2,2014,Action|Adventure|Animation,Dean DeBlois,Jay Baruchel|Cate Blanchett|Gerard Butler,LV|DK,7.8,405467,102,2010s
+365,Castle in the Sky,1986,Adventure|Animation|Family,Hayao Miyazaki,Mayumi Tanaka|Keiko Yokozawa|Kotoe Hatsui,DK|LV,8.0,199776,124,1980s
+366,NausicaÃ¤ of the Valley of the Wind,1984,Adventure|Animation|Sci-Fi,Hayao Miyazaki,Sumi Shimamoto|Mahito Tsujimura|Mahito Tsujimura,DK|LV,8.0,198574,117,1980s
+367,Moon,2009,Drama|Mystery|Sci-Fi,Duncan Jones,Sam Rockwell|Kevin Spacey|Dominique McElligott,PH|PT,7.8,397389,97,2000s
+368,True Romance,1993,Crime|Drama|Romance,Tony Scott,Christian Slater|Patricia Arquette|Dennis Hopper,LV|DK,7.9,262455,119,1990s
+369,Kingsman: The Secret Service,2014,Action|Adventure|Comedy,Matthew Vaughn,Colin Firth|Colin Firth|Taron Egerton,LV|PH,7.7,781674,129,2010s
+370,Cool Hand Luke,1967,Crime|Drama,Stuart Rosenberg,Paul Newman|George Kennedy|Strother Martin,DK|PT,8.0,196891,127,1960s
+371,Silver Linings Playbook,2012,Comedy|Drama|Romance,David O. Russell,Bradley Cooper|Jennifer Lawrence|Robert De Niro,LV|LU,7.7,776111,122,2010s
+372,X-Men: First Class,2011,Action|Sci-Fi,Matthew Vaughn,James McAvoy|Michael Fassbender|Jennifer Lawrence,DK|PH,7.7,768601,131,2010s
+373,Harry Potter and the Goblet of Fire,2005,Adventure|Family|Fantasy,Mike Newell,Daniel Radcliffe|Emma Watson|Rupert Grint,LV|DK,7.7,760325,157,2000s
+374,Pride & Prejudice,2005,Drama|Romance,Joe Wright,Keira Knightley|Matthew Macfadyen|Brenda Blethyn,LV|DK,7.8,380866,129,2000s
+375,A Fistful of Dollars,1964,Drama|Western,Sergio Leone,Clint Eastwood|Gian Maria VolontÃ¨|Marianne Koch,DK|LV,7.9,255500,99,1960s
+376,In the Mood for Love,2000,Drama|Romance,Wong Kar-Wai,Maggie Cheung|Tony Leung Chiu-wai|Ping-Lam Siu,DK|LV,8.0,190374,98,2000s
+377,Birdman or (The Unexpected Virtue of Ignorance),2014,Comedy|Drama,Alejandro G. IÃ±Ã¡rritu,Michael Keaton|Zach Galifianakis|Edward Norton,LV|PT,7.7,701476,119,2010s
+378,Carlito's Way,1993,Crime|Drama|Thriller,Brian De Palma,Al Pacino|Sean Penn|Penelope Ann Miller,DK|LU,7.9,249668,144,1990s
+379,Zodiac,2007,Crime|Drama|Mystery,David Fincher,Jake Gyllenhaal|Robert Downey Jr.|Mark Ruffalo,LV|DK,7.7,682082,157,2000s
+380,Call Me by Your Name,2017,Drama|Romance,Luca Guadagnino,TimothÃ©e Chalamet|Armie Hammer|Michael Stuhlbarg,LV|AT,7.8,362895,132,2010s
+381,Sita Ramam,2022,Action|Drama|Musical,Hanu Raghavapudi,Dulquer Salmaan|Mrunal Thakur|Mrunal Thakur,PH|ZA,8.5,84938,163,2020s
+382,Ocean's Eleven,2001,Crime|Thriller,Steven Soderbergh,George Clooney|Brad Pitt|Julia Roberts,LV|AT,7.7,679495,116,2000s
+383,Taken,2008,Action|Crime|Thriller,Pierre Morel,Liam Neeson|Maggie Grace|Famke Janssen,LV|PH,7.7,676040,90,2000s
+384,Manchester by the Sea,2016,Drama,Kenneth Lonergan,Casey Affleck|Michelle Williams|Kyle Chandler,AT|PH,7.8,360767,137,2010s
+385,Harry Potter and the Deathly Hallows: Part 1,2010,Adventure|Family|Fantasy,David Yates,Daniel Radcliffe|Emma Watson|Rupert Grint,DK|MK,7.7,670821,146,2010s
+386,Argo,2012,Biography|Drama|History,Ben Affleck,Ben Affleck|Bryan Cranston|John Goodman,DK|PH,7.7,670577,120,2010s
+387,The Untouchables,1987,Crime|Drama|Thriller,Brian De Palma,Kevin Costner|Sean Connery|Robert De Niro,DK|AT,7.8,355486,119,1980s
+388,Everything Everywhere All at Once,2022,Action|Adventure|Comedy,Daniel Kwan|Daniel Scheinert,Michelle Yeoh|Stephanie Hsu|Stephanie Hsu,LV|DK,7.7,657425,139,2020s
+389,Spider-Man: Brand New Day,2026,Action|Adventure|Sci-Fi,Destin Daniel Cretton,Tom Holland|Tom Holland|Zendaya,LV|DK,8.1,149194,145,2020s
+390,Ex Machina,2014,Drama|Sci-Fi|Thriller,Alex Garland,Alicia Vikander|Domhnall Gleeson|Oscar Isaac,MK|PH,7.7,643458,108,2010s
+391,The Fugitive,1993,Action|Crime|Drama,Andrew Davis,Harrison Ford|Tommy Lee Jones|Sela Ward,DK|AT,7.8,348946,130,1990s
+392,JFK,1991,Drama|History|Thriller,Oliver Stone,Kevin Costner|Gary Oldman|Jack Lemmon,DK|PT,8.0,182802,189,1990s
+393,All Quiet on the Western Front,2022,Drama|History|War,Edward Berger,Felix Kammerer|Albrecht Schuch|Aaron Hilmer,DK|AT,7.8,343343,148,2020s
+394,Young Frankenstein,1974,Comedy,Mel Brooks,Gene Wilder|Madeline Kahn|Marty Feldman,DK|PH,8.0,181142,106,1970s
+395,Atonement,2007,Drama|Mystery|Romance,Joe Wright,Keira Knightley|James McAvoy|Brenda Blethyn,LV|DK,7.8,332078,123,2000s
+396,The Blues Brothers,1980,Adventure|Comedy|Crime,John Landis,John Belushi|Dan Aykroyd|Cab Calloway,DK|PT,7.9,230917,133,1980s
+397,"Paris, Texas",1984,Drama,Wim Wenders,Harry Dean Stanton|Nastassja Kinski|Dean Stockwell,DK|AT,8.1,143519,145,1980s
+398,Puss in Boots: The Last Wish,2022,Action|Adventure|Animation,Joel Crawford|Januel Mercado,Antonio Banderas|Salma Hayek|Harvey GuillÃ©n,DK|LV,7.9,229157,102,2020s
+399,Ikiru,1952,Drama,Akira Kurosawa,Takashi Shimura|Nobuo Kaneko|Shin'ichi Himori,DK|PT,8.3,103334,143,1950s
+400,A Few Good Men,1992,Drama|Thriller,Rob Reiner,Tom Cruise|Jack Nicholson|Demi Moore,DK|AT,7.8,320038,138,1990s
+401,Tangled,2010,Adventure|Animation|Comedy,Nathan Greno|Byron Howard,Mandy Moore|Zachary Levi|Donna Murphy,LV|DK,7.7,550929,100,2010s
+402,Serenity,2005,Action|Adventure|Sci-Fi,Joss Whedon,Nathan Fillion|Gina Torres|Chiwetel Ejiofor,PH|PT,7.8,316662,119,2000s
+403,Sicario,2015,Action|Crime|Drama,Denis Villeneuve,Emily Blunt|Josh Brolin|Benicio Del Toro,PH|PT,7.7,545253,121,2010s
+404,Andhadhun,2018,Comedy|Crime|Mystery,Sriram Raghavan,Ayushmann Khurrana|Tabu|Radhika Apte,PH|ZA,8.2,117555,139,2010s
+405,Lost in Translation,2003,Comedy|Drama,Sofia Coppola,Bill Murray|Scarlett Johansson|Giovanni Ribisi,LV|PH,7.7,533119,102,2000s
+406,Dogville,2003,Crime|Drama,Lars von Trier,Nicole Kidman|Paul Bettany|Lauren Bacall,DK|PH,8.0,168370,171,2000s
+407,The Bourne Supremacy,2004,Action|Mystery|Thriller,Paul Greengrass,Matt Damon|Franka Potente|Joan Allen,DK|AT,7.7,516188,108,2000s
+408,Coraline,2009,Animation|Drama|Family,Henry Selick,Dakota Fanning|Teri Hatcher|Teri Hatcher,DK|LV,7.8,303868,100,2000s
+409,Star Trek Into Darkness,2013,Action|Adventure|Sci-Fi,J.J. Abrams,Chris Pine|Zachary Quinto|Zoe SaldaÃ±a,LV|PH,7.7,511669,132,2010s
+410,The Theory of Everything,2014,Biography|Drama|Romance,James Marsh,Eddie Redmayne|Felicity Jones|Tom Prior,DK|LV,7.7,509593,123,2010s
+411,Gangs of Wasseypur,2012,Action|Comedy|Crime,Anurag Kashyap,Manoj Bajpayee|Nawazuddin Siddiqui|Tigmanshu Dhulia,ZA|AU,8.2,115190,321,2010s
+412,Wreck-It Ralph,2012,Adventure|Animation|Comedy,Rich Moore,John C. Reilly|Jack McBrayer|Jane Lynch,LV|DK,7.7,503216,101,2010s
+413,"Crouching Tiger, Hidden Dragon",2000,Action|Adventure|Drama,Ang Lee,Chow Yun-Fat|Michelle Yeoh|Ziyi Zhang,DK|LV,7.8,296449,120,2000s
+414,Hidden Figures,2016,Biography|Drama|History,Theodore Melfi,Taraji P. Henson|Octavia Spencer|Janelle MonÃ¡e,AT|PH,7.8,292369,127,2010s
+415,Judgment at Nuremberg,1961,Drama|History|War,Stanley Kramer,Spencer Tracy|Burt Lancaster|Richard Widmark,DK|AT,8.3,97811,179,1960s
+416,Rebecca,1940,Drama|Mystery|Romance,Alfred Hitchcock,Laurence Olivier|Joan Fontaine|George Sanders,DK|AT,8.0,161782,130,1940s
+417,The Game,1997,Drama|Mystery|Thriller,David Fincher,Michael Douglas|Deborah Kara Unger|Sean Penn,DK|PH,7.7,475066,129,1990s
+418,Crash,2004,Crime|Drama|Thriller,Paul Haggis,Don Cheadle|Sandra Bullock|Thandiwe Newton,LV|PH,7.7,463428,112,2000s
+419,Walk the Line,2005,Biography|Drama|Music,James Mangold,Joaquin Phoenix|Reese Witherspoon|Ginnifer Goodwin,LV|PT,7.8,281856,136,2000s
+420,Black Hawk Down,2001,Action|Drama|History,Ridley Scott,Josh Hartnett|Ewan McGregor|Tom Sizemore,LV|AT,7.7,457687,144,2000s
+421,Lagaan: Once Upon a Time in India,2001,Drama|Musical|Sport,Ashutosh Gowariker,Aamir Khan|Raghubir Yadav|Gracy Singh,PH|PT,8.1,130160,224,2000s
+422,Mr. Smith Goes to Washington,1939,Comedy|Drama,Frank Capra,James Stewart|Jean Arthur|Claude Rains,DK|PT,8.1,130109,129,1930s
+423,Roman Holiday,1953,Comedy|Drama|Romance,William Wyler,Gregory Peck|Audrey Hepburn|Eddie Albert,DK|LV,8.0,158289,118,1950s
+424,Drishyam,2015,Crime|Drama|Mystery,Nishikant Kamat,Ajay Devgn|Shriya Saran|Tabu,ZA|AU,8.2,110290,163,2010s
+425,Stalker,1979,Drama|Sci-Fi,Andrei Tarkovsky,Alisa Freyndlikh|Aleksandr Kaydanovskiy|Anatoliy Solonitsyn,DK|PH,8.0,157240,162,1970s
+426,The Gold Rush,1925,Adventure|Comedy|Drama,Charles Chaplin,Charles Chaplin|Mack Swain|Tom Murray,DK|LV,8.1,128753,95,1920s
+427,Senna,2010,Biography|Documentary|Sport,Asif Kapadia,,PT|NO,8.4,84044,106,2010s
+428,Wonder,2017,Drama|Family,Stephen Chbosky,Jacob Tremblay|Owen Wilson|Izabela Vidovic,AT|PH,7.9,198366,113,2010s
+429,Baahubali: The Beginning,2015,Action|Drama,S.S. Rajamouli,Prabhas|Prabhas|Rana Daggubati,PH|NO,8.0,155687,159,2010s
+430,Rang De Basanti,2006,Comedy|Crime|Drama,Rakeysh Omprakash Mehra,Aamir Khan|Aamir Khan|Soha Ali Khan,AU|FR,8.1,127097,167,2000s
+431,Misery,1990,Drama|Thriller,Rob Reiner,James Caan|Kathy Bates|Richard Farnsworth,DK|AT,7.8,267925,107,1990s
+432,Hero,2002,Action|Adventure|Drama,Yimou Zhang,Jet Li|Tony Leung Chiu-wai|Maggie Cheung,DK|LV,7.9,194975,94,2000s
+433,Man on Fire,2004,Action|Crime|Drama,Tony Scott,Denzel Washington|Christopher Walken|Dakota Fanning,LV|AT,7.7,424145,146,2000s
+434,Mission: Impossible - Fallout,2018,Action|Adventure|Thriller,Christopher McQuarrie,Tom Cruise|Henry Cavill|Ving Rhames,LV|AT,7.7,422833,147,2010s
+435,Brokeback Mountain,2005,Drama|Romance,Ang Lee,Jake Gyllenhaal|Heath Ledger|Michelle Williams,LV|MK,7.7,420325,134,2000s
+436,Poor Things,2023,Comedy|Drama|Romance,Yorgos Lanthimos,Emma Stone|Mark Ruffalo|Willem Dafoe,LV|DK,7.7,419735,141,2020s
+437,The Lego Movie,2014,Action|Adventure|Animation,Phil Lord|Christopher Miller,Chris Pratt|Will Ferrell|Will Ferrell,DK|PH,7.7,419443,100,2010s
+438,Swades,2004,Drama|Musical,Ashutosh Gowariker,Shah Rukh Khan|Gayatri Joshi|Kishori Ballal,ZA|AU,8.2,106859,189,2000s
+439,Wild Strawberries,1957,Drama|Romance,Ingmar Bergman,Victor SjÃ¶strÃ¶m|Bibi Andersson|Bibi Andersson,DK|PT,8.1,125297,92,1950s
+440,Once Upon a Time in... Hollywood,2019,Comedy|Drama,Quentin Tarantino,Leonardo DiCaprio|Brad Pitt|Margot Robbie,DK|LV,7.6,972101,161,2010s
+441,300,2006,Action|Drama,Zack Snyder,Gerard Butler|Lena Headey|David Wenham,PH|PT,7.6,918457,117,2000s
+442,The Artist,2011,Comedy|Drama|Romance,Michel Hazanavicius,Jean Dujardin|BÃ©rÃ©nice Bejo|John Goodman,LV|PT,7.8,256043,100,2010s
+443,Before Midnight,2013,Drama|Romance,Richard Linklater,Ethan Hawke|Julie Delpy|Seamus Davey-Fitzpatrick,LV|PH,7.9,187463,109,2010s
+444,Captain Fantastic,2016,Adventure|Comedy|Drama,Matt Ross,Viggo Mortensen|George MacKay|Samantha Isler,DK|LV,7.8,252297,118,2010s
+445,Remember the Titans,2000,Biography|Comedy|Drama,Boaz Yakin,Denzel Washington|Will Patton|Wood Harris,DK|AT,7.8,251851,113,2000s
+446,Vikram,2022,Action|Crime|Thriller,Lokesh Kanagaraj,Kamal Haasan|Kamal Haasan|Vijay Sethupathi,AT|PH,8.3,90448,175,2020s
+447,20 Days in Mariupol,2023,Documentary|War,Mstyslav Chernov,,DK|PT,8.6,65359,97,2020s
+448,Papillon,1973,Biography|Crime|Drama,Franklin J. Schaffner,Steve McQueen|Dustin Hoffman|Victor Jory,AT|PT,8.0,146474,151,1970s
+449,American Psycho,2000,Crime|Drama|Horror,Mary Harron,Christian Bale|Justin Theroux|Josh Lucas,LV|DK,7.6,849531,102,2000s
+450,Moonrise Kingdom,2012,Adventure|Comedy|Drama,Wes Anderson,Jared Gilman|Kara Hayward|Bruce Willis,LV|PH,7.7,384265,94,2010s
+451,Guardians of the Galaxy: Vol. 2,2017,Action|Adventure|Comedy,James Gunn,Chris Pratt|Chris Pratt|Zoe SaldaÃ±a,LV|AT,7.6,838740,136,2010s
+452,It Happened One Night,1934,Comedy|Romance,Frank Capra,Clark Gable|Claudette Colbert|Walter Connolly,DK|AT,8.1,120268,105,1930s
+453,Willy Wonka & the Chocolate Factory,1971,Adventure|Comedy|Family,Mel Stuart,Gene Wilder|Jack Albertson|Peter Ostrum,DK|LV,7.8,245923,100,1970s
+454,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,Action|Adventure|Animation,Haruo Sotozaki,Natsuki Hanae|Akari KitÃ´|Yoshitsugu Matsuoka,DK|AT,8.2,102465,117,2020s
+455,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,Action|Adventure|Animation,Haruo Sotozaki|Hikaru KondÃ´,Zach Aguilar|Zach Aguilar|Saeko Akiho,DK|AT,8.4,79150,155,2020s
+456,Being John Malkovich,1999,Comedy|Drama|Fantasy,Spike Jonze,John Cusack|Cameron Diaz|Catherine Keener,DK|PH,7.7,370501,113,1990s
+457,My Father and My Son,2005,Drama,Ã‡agan Irmak,Ã‡etin Tekindor|Fikret KuÅŸkan|HÃ¼meyra,DK|ZA,8.2,101729,112,2000s
+458,A Christmas Story,1983,Comedy|Family,Bob Clark,Peter Billingsley|Melinda Dillon|Darren McGavin,DK|PH,7.9,179907,93,1980s
+459,Let the Right One In,2008,Drama|Fantasy|Horror,Tomas Alfredson,KÃ¥re Hedebrant|Lina Leandersson|Per Ragnar,DK|PT,7.8,241109,114,2000s
+460,Deadpool 2,2018,Action|Adventure|Comedy,David Leitch,Ryan Reynolds|Ryan Reynolds|Ryan Reynolds,AT|PH,7.6,752389,119,2010s
+461,Persona,1966,Drama|Thriller,Ingmar Bergman,Bibi Andersson|Liv Ullmann|Margaretha Krook,DK|PH,8.0,141562,83,1960s
+462,Kantara,2022,Action|Adventure|Drama,Rishab Shetty,Rishab Shetty|Rishab Shetty|Kishore Kumar G.,PH|ZA,8.1,117618,148,2020s
+463,Donnie Brasco,1997,Biography|Crime|Drama,Mike Newell,Al Pacino|Johnny Depp|Michael Madsen,DK|AT,7.7,359180,127,1990s
+464,Straight Outta Compton,2015,Biography|Drama|History,F. Gary Gray,O'Shea Jackson Jr.|Corey Hawkins|Jason Mitchell,PH|PT,7.8,235276,147,2010s
+465,Ghost in the Shell,1995,Action|Animation|Crime,Mamoru Oshii,Atsuko Tanaka|Iemasa Kayumi|Akio Ã”tsuka,LV|PT,7.9,175771,83,1990s
+466,"O Brother, Where Art Thou?",2000,Adventure|Comedy|Crime,Joel Coen|Ethan Coen,George Clooney|John Turturro|Tim Blake Nelson,PH|PT,7.7,354183,107,2000s
+467,The Maltese Falcon,1941,Crime|Drama|Film-Noir,John Huston,Humphrey Bogart|Mary Astor|Gladys George,LV|DK,7.9,174952,100,1940s
+468,Gattaca,1997,Drama|Sci-Fi|Thriller,Andrew Niccol,Ethan Hawke|Ethan Hawke|Uma Thurman,DK|AT,7.7,349445,106,1990s
+469,Mulan,1998,Adventure|Animation|Comedy,Tony Bancroft|Barry Cook,Ming-Na Wen|Eddie Murphy|BD Wong,DK|LU,7.7,349361,87,1990s
+470,Munna Bhai M.B.B.S.,2003,Comedy|Drama,Rajkumar Hirani,Sanjay Dutt|Arshad Warsi|Gracy Singh,PL|NZ,8.2,99166,156,2000s
+471,Infernal Affairs,2002,Crime|Drama|Mystery,Wai Keung Lau|Alan Mak,Andy Lau|Tony Leung Chiu-wai|Anthony Chau-Sang Wong,DK|PT,8.0,138947,101,2000s
+472,Superbad,2007,Comedy,Greg Mottola,Michael Cera|Jonah Hill|Christopher Mintz-Plasse,LV|PH,7.6,700401,113,2000s
+473,The Girl with the Dragon Tattoo,2009,Crime|Drama|Mystery,Niels Arden Oplev,Michael Nyqvist|Noomi Rapace|Ewa FrÃ¶ling,DK|PT,7.8,231400,152,2000s
+474,Halloween,1978,Horror|Thriller,John Carpenter,Donald Pleasence|Jamie Lee Curtis|Tony Moran,LV|DK,7.7,341450,91,1970s
+475,Apollo 13,1995,Adventure|Drama|History,Ron Howard,Tom Hanks|Bill Paxton|Kevin Bacon,DK|AT,7.7,341066,140,1990s
+476,Lucky Number Slevin,2006,Crime|Drama|Thriller,Paul McGuigan,Josh Hartnett|Ben Kingsley|Morgan Freeman,PT|ZA,7.7,340391,110,2000s
+477,Rocketry: The Nambi Effect,2022,Biography|Drama,Madhavan,Madhavan|Simran|Rajit Kapoor,PH|ZA,8.6,62428,157,2020s
+478,As Good as It Gets,1997,Comedy|Drama|Romance,James L. Brooks,Jack Nicholson|Helen Hunt|Greg Kinnear,DK|AT,7.7,339229,139,1990s
+479,Harry Potter and the Half-Blood Prince,2009,Adventure|Family|Fantasy,David Yates,Daniel Radcliffe|Emma Watson|Rupert Grint,DK|MK,7.6,666742,153,2000s
+480,RRR,2022,Action|Adventure|Drama,S.S. Rajamouli,N.T. Rama Rao Jr.|Ram Charan|Ajay Devgn,PH|PT,7.8,226017,187,2020s
+481,The Mountain II,2016,Action|Drama|War,Alper Caglar,Caglar Ertugrul|Ufuk Bayraktar|Ahu TÃ¼rkpenÃ§e,PH|PT,8.1,112962,135,2010s
+482,The 400 Blows,1959,Crime|Drama,FranÃ§ois Truffaut,Jean-Pierre LÃ©aud|Albert RÃ©my|Claire Maurier,DK|PT,8.0,135184,99,1950s
+483,Zindagi Na Milegi Dobara,2011,Adventure|Comedy|Drama,Zoya Akhtar,Hrithik Roshan|Farhan Akhtar|Abhay Deol,ZA|AR,8.2,96888,155,2010s
+484,Bajrangi Bhaijaan,2015,Adventure|Comedy|Drama,Kabir Khan,Salman Khan|Salman Khan|Harshaali Malhotra,PH|ZA,8.1,112771,163,2010s
+485,Despicable Me,2010,Adventure|Animation|Comedy,Pierre Coffin|Chris Renaud,Steve Carell|Jason Segel|Russell Brand,DK|LV,7.6,638290,95,2010s
+486,Brazil,1985,Drama|Sci-Fi|Thriller,Terry Gilliam,Jonathan Pryce|Kim Greist|Robert De Niro,DK|AT,7.8,222547,132,1980s
+487,K.G.F: Chapter 1,2018,Action|Crime|Drama,Prashanth Neel,Yash|Yash|Srinidhi Shetty,AT|ZA,8.1,112482,154,2010s
+488,The Goonies,1985,Adventure|Comedy|Family,Richard Donner,Sean Astin|Josh Brolin|Jeff Cohen,DK|LV,7.7,329040,114,1980s
+489,Minority Report,2002,Action|Crime|Mystery,Steven Spielberg,Tom Cruise|Colin Farrell|Samantha Morton,AT|PH,7.6,624834,145,2000s
+490,Maharaja,2024,Action|Crime|Drama,Nithilan Saminathan|R. Nandhakumar|T. Suresh,Vijay Sethupathi|Anurag Kashyap|Mamta Mohandas,ZA|AR,8.3,84239,141,2020s
+491,500 Days of Summer,2009,Comedy|Drama|Romance,Marc Webb,Zooey Deschanel|Joseph Gordon-Levitt|Geoffrey Arend,LV|PH,7.6,624424,95,2000s
+492,Kick-Ass,2010,Action|Comedy|Crime,Matthew Vaughn,Aaron Taylor-Johnson|Aaron Taylor-Johnson|Nicolas Cage,DK|PH,7.6,623168,117,2010s
+493,The Man from Earth,2007,Drama|Fantasy|Mystery,Richard Schenkman,David Lee Smith|Tony Todd|John Billingsley,PH|PT,7.8,220135,87,2000s
+494,Rope,1948,Crime|Drama|Mystery,Alfred Hitchcock,James Stewart|John Dall|Farley Granger,DK|AT,7.9,165984,80,1940s
+495,8Â½,1963,Drama,Federico Fellini,Marcello Mastroianni|Anouk AimÃ©e|Claudia Cardinale,DK|PT,8.0,133362,138,1960s
+496,Fury,2014,Action|Drama|War,David Ayer,Brad Pitt|Shia LaBeouf|Logan Lerman,LV|PH,7.6,615095,134,2010s
+497,Watchmen,2009,Action|Drama|Mystery,Zack Snyder,Jackie Earle Haley|Patrick Wilson|Patrick Wilson,PH|PT,7.6,614325,162,2000s
+498,Rise of the Planet of the Apes,2011,Action|Drama|Sci-Fi,Rupert Wyatt,James Franco|Andy Serkis|Freida Pinto,DK|LV,7.6,608426,105,2010s
+499,Wind River,2017,Crime|Drama|Mystery,Taylor Sheridan,Elizabeth Olsen|Jeremy Renner|Graham Greene,LV|AT,7.7,318325,107,2010s
+500,Kung Fu Panda,2008,Action|Adventure|Animation,Mark Osborne|John Stevenson,Jack Black|Ian McShane|Angelina Jolie,LV|PH,7.6,586768,92,2000s
+501,Isle of Dogs,2018,Adventure|Animation|Comedy,Wes Anderson,Bryan Cranston|Koyu Rankin|Edward Norton,LV|AT,7.8,213412,101,2010s
+502,This Is Spinal Tap,1984,Comedy|Music,Rob Reiner,Rob Reiner|Michael McKean|Christopher Guest,DK|LV,7.9,161182,82,1980s
+503,Portrait of a Lady on Fire,2019,Drama|Romance,CÃ©line Sciamma,NoÃ©mie Merlant|AdÃ¨le Haenel|LuÃ na Bajrami,DK|AT,8.0,129247,122,2010s
+504,The Butterfly Effect,2004,Drama|Sci-Fi|Thriller,Eric Bress|J. Mackye Gruber,Ashton Kutcher|Amy Smart|Melora Walters,LV|PH,7.6,558648,113,2000s
+505,High and Low,1963,Crime|Drama|Mystery,Akira Kurosawa,ToshirÅ Mifune|Yutaka Sada|Tatsuya Nakadai,DK|PT,8.4,72873,143,1960s
+506,First Blood,1982,Action|Adventure|Thriller,Ted Kotcheff,Sylvester Stallone|Brian Dennehy|Richard Crenna,DK|AT,7.7,304024,93,1980s
+507,The Fifth Element,1997,Action|Adventure|Sci-Fi,Luc Besson,Bruce Willis|Milla Jovovich|Gary Oldman,DK|LV,7.6,549398,126,1990s
+508,The Grapes of Wrath,1940,Drama,John Ford,Henry Fonda|Jane Darwell|John Carradine,DK|AT,8.1,107366,129,1940s
+509,Primal Fear,1996,Crime|Drama|Mystery,Gregory Hoblit,Richard Gere|Laura Linney|Edward Norton,DK|AT,7.7,292617,129,1990s
+510,The General,1926,Action|Adventure|Comedy,Clyde Bruckman|Buster Keaton,Buster Keaton|Marion Mack|Glen Cavender,DK|AT,8.1,105684,78,1920s
+511,Airplane!,1980,Comedy,Jim Abrahams|David Zucker|Jerry Zucker,Robert Hays|Julie Hagerty|Leslie Nielsen,DK|LV,7.7,290992,88,1980s
+512,Perfect Blue,1997,Animation|Crime|Drama,Satoshi Kon,Junko Iwao|Rica Matsumoto|Shinpachi Tsuji,LV|PH,8.0,125284,82,1990s
+513,Saw,2004,Horror|Mystery|Thriller,James Wan,Cary Elwes|Leigh Whannell|Danny Glover,LV|PH,7.6,514673,103,2000s
+514,Moneyball,2011,Biography|Drama|Sport,Bennett Miller,Brad Pitt|Robin Wright|Jonah Hill,PH|PT,7.6,514201,133,2010s
+515,Children of Heaven,1997,Drama|Family|Sport,Majid Majidi,Reza Naji|Amir Farrokh Hashemian|Bahare Seddiqi,DK|PT,8.2,90832,89,1990s
+516,Dawn of the Planet of the Apes,2014,Action|Adventure|Drama,Matt Reeves,Gary Oldman|Keri Russell|Andy Serkis,DK|PH,7.6,513818,130,2010s
+517,Little Women,2019,Drama|Romance,Greta Gerwig,Saoirse Ronan|Emma Watson|Florence Pugh,LV|DK,7.7,286973,135,2010s
+518,Mary Poppins,1964,Comedy|Family|Fantasy,Robert Stevenson,Julie Andrews|Dick Van Dyke|Dick Van Dyke,DK|PH,7.8,199763,139,1960s
+519,Bowling for Columbine,2002,Crime|Documentary|Drama,Michael Moore,,PH|PT,7.9,152515,120,2000s
+520,Spartacus,1960,Adventure|Biography|Drama,Stanley Kubrick,Kirk Douglas|Laurence Olivier|Tony Curtis,AT|PH,7.9,151856,184,1960s
+521,The Boy in the Striped Pajamas,2008,Drama|War,Mark Herman,Asa Butterfield|David Thewlis|Rupert Friend,DK|LV,7.7,276732,94,2000s
+522,Tombstone,1993,Biography|Drama|History,George P. Cosmatos,Kurt Russell|Val Kilmer|Sam Elliott,DK|AT,7.8,194081,130,1990s
+523,Changeling,2008,Biography|Crime|Drama,Clint Eastwood,Angelina Jolie|Colm Feore|Amy Ryan,LV|DK,7.7,275972,141,2000s
+524,Philadelphia,1993,Drama,Jonathan Demme,Tom Hanks|Denzel Washington|Roberta Maxwell,DK|AT,7.7,275804,125,1990s
+525,Midnight in Paris,2011,Comedy|Fantasy|Romance,Woody Allen,Owen Wilson|Rachel McAdams|Kathy Bates,LV|PH,7.6,473034,94,2010s
+526,When Harry Met Sally...,1989,Comedy|Drama|Romance,Rob Reiner,Billy Crystal|Meg Ryan|Carrie Fisher,DK|LV,7.7,273869,95,1980s
+527,The Insider,1999,Biography|Drama|History,Michael Mann,Russell Crowe|Al Pacino|Christopher Plummer,DK|AT,7.8,192619,157,1990s
+528,Strangers on a Train,1951,Crime|Drama|Film-Noir,Alfred Hitchcock,Farley Granger|Robert Walker|Ruth Roman,DK|AT,7.9,148639,101,1950s
+529,Elite Squad,2007,Action|Crime|Drama,JosÃ© Padilha,Wagner Moura|AndrÃ© Ramiro|Caio Junqueira,LV|DK,8.0,120475,115,2000s
+530,What's Eating Gilbert Grape,1993,Drama,Lasse HallstrÃ¶m,Johnny Depp|Leonardo DiCaprio|Juliette Lewis,DK|PH,7.7,270324,118,1990s
+531,Ed Wood,1994,Biography|Comedy|Drama,Tim Burton,Johnny Depp|Martin Landau|Sarah Jessica Parker,DK|AT,7.8,190678,127,1990s
+532,Kiki's Delivery Service,1989,Animation|Family|Fantasy,Hayao Miyazaki,Minami Takayama|Minami Takayama|Rei Sakuma,DK|PT,7.8,190622,103,1980s
+533,A Star Is Born,2018,Drama|Music|Romance,Bradley Cooper,Lady Gaga|Bradley Cooper|Sam Elliott,LV|AT,7.6,451372,136,2010s
+534,A Bronx Tale,1993,Crime|Drama,Robert De Niro,Robert De Niro|Chazz Palminteri|Lillo Brancato,DK|AT,7.8,188230,121,1990s
+535,Kill Bill: The Whole Bloody Affair,2004,Action|Crime|Thriller,Quentin Tarantino,,DK|PH,8.7,51964,253,2000s
+536,Moana,2016,Adventure|Animation|Comedy,Ron Clements|John Musker|Don Hall|Chris Williams,Auli'i Cravalho|Dwayne Johnson|Rachel House,DK|AT,7.6,447695,107,2010s
+537,The Machinist,2004,Drama|Thriller,Brad Anderson,Christian Bale|Jennifer Jason Leigh|Aitana SÃ¡nchez-GijÃ³n,PH|PT,7.6,444586,101,2000s
+538,One Battle After Another,2025,Crime|Thriller,Paul Thomas Anderson,Leonardo DiCaprio|Sean Penn|Benicio Del Toro,DK|AT,7.6,433581,161,2020s
+539,Mr. Nobody,2009,Drama|Fantasy|Romance,Jaco Van Dormael,Jared Leto|Jared Leto|Sarah Polley,LV|DK,7.7,258677,141,2000s
+540,Die Hard with a Vengeance,1995,Action|Adventure|Thriller,John McTiernan,Bruce Willis|Jeremy Irons|Samuel L. Jackson,DK|PH,7.6,432191,128,1990s
+541,The Others,2001,Horror|Mystery|Thriller,Alejandro AmenÃ¡bar,Nicole Kidman|Christopher Eccleston|Fionnula Flanagan,AT|PH,7.6,429849,104,2000s
+542,Inside Man,2006,Crime|Drama|Mystery,Spike Lee,Denzel Washington|Clive Owen|Jodie Foster,DK|PH,7.6,427212,129,2000s
+543,Three Colors: Red,1994,Drama|Mystery|Romance,Krzysztof KieÅ›lowski,IrÃ¨ne Jacob|Jean-Louis Trintignant|FrÃ©dÃ©rique Feder,DK|LV,8.0,116455,99,1990s
+544,The Fault in Our Stars,2014,Drama|Romance,Josh Boone,Shailene Woodley|Ansel Elgort|Nat Wolff,DK|LV,7.6,426719,126,2010s
+545,Uri: The Surgical Strike,2019,Action|Drama|History,Aditya Dhar,Vicky Kaushal|Paresh Rawal|Mohit Raina,AT|PH,8.2,84915,138,2010s
+546,John Wick: Chapter 4,2023,Action|Crime|Thriller,Chad Stahelski,Keanu Reeves|Laurence Fishburne|George Georgiou,DK|AT,7.6,416726,169,2020s
+547,The Raid 2,2014,Action|Crime|Thriller,Gareth Evans,Iko Uwais|Yayan Ruhian|Arifin Putra,DK|LV,7.9,140103,150,2010s
+548,Awakenings,1990,Biography|Drama,Penny Marshall,Robert De Niro|Robin Williams|Julie Kavner,DK|AT,7.8,178051,121,1990s
+549,Blue Velvet,1986,Crime|Drama|Mystery,David Lynch,Isabella Rossellini|Kyle MacLachlan|Dennis Hopper,LV|DK,7.7,247513,120,1980s
+550,Letters from Iwo Jima,2006,Action|Adventure|Drama,Clint Eastwood,Ken Watanabe|Kazunari Ninomiya|Tsuyoshi Ihara,DK|LV,7.8,177749,141,2000s
+551,All the President's Men,1976,Drama|History|Thriller,Alan J. Pakula,Dustin Hoffman|Robert Redford|Jack Warden,DK|AT,7.9,138732,138,1970s
+552,Chhichhore,2019,Comedy|Drama|Romance,Nitesh Tiwari,Sushant Singh Rajput|Shraddha Kapoor|Varun Sharma,PH|ZA,8.3,73822,143,2010s
+553,Society of the Snow,2023,Adventure|Biography|Drama,J.A. Bayona,Enzo Vogrincic|AgustÃ­n Pardella|MatÃ­as Recalt,DK|AT,7.8,176327,144,2020s
+554,Past Lives,2023,Drama|Romance,Celine Song,Greta Lee|Teo Yoo|John Magaro,LV|DK,7.8,176187,105,2020s
+555,The Diving Bell and the Butterfly,2007,Biography|Drama,Julian Schnabel,Mathieu Amalric|Emmanuelle Seigner|Marie-JosÃ©e Croze,DK|LV,8.0,113084,112,2000s
+556,Clerks,1994,Comedy,Kevin Smith,Brian O'Halloran|Jeff Anderson|Marilyn Ghigliotti,DK|PH,7.7,241316,92,1990s
+557,Inside Job,2010,Crime|Documentary,Charles Ferguson,,DK|PH,8.2,82729,109,2010s
+558,The Blind Side,2009,Biography|Drama|Sport,John Lee Hancock,Quinton Aaron|Sandra Bullock|Tim McGraw,PH|PT,7.6,390071,129,2000s
+559,Barfi!,2012,Comedy|Drama|Romance,Anurag Basu,Ranbir Kapoor|Ranbir Kapoor|Priyanka Chopra Jonas,PT|ZA,8.1,94483,151,2010s
+560,F1: The Movie,2025,Drama|Sport,Joseph Kosinski,Brad Pitt|Damson Idris|Javier Bardem,DK|AT,7.6,382877,155,2020s
+561,True Grit,2010,Drama|Western,Ethan Coen|Joel Coen,Jeff Bridges|Matt Damon|Hailee Steinfeld,LV|PH,7.6,378290,110,2010s
+562,Hera Pheri,2000,Action|Comedy|Crime,Priyadarshan,Akshay Kumar|Suniel Shetty|Paresh Rawal,NZ|US,8.2,81465,156,2000s
+563,Who Framed Roger Rabbit,1988,Adventure|Animation|Comedy,Robert Zemeckis,Bob Hoskins|Christopher Lloyd|Joanna Cassidy,DK|PH,7.7,234133,104,1980s
+564,The Straight Story,1999,Biography|Drama,David Lynch,Richard Farnsworth|Sissy Spacek|Jane Galloway Heitz,DK|PT,8.0,109103,112,1990s
+565,Doctor Strange,2016,Action|Adventure|Fantasy,Scott Derrickson,Benedict Cumberbatch|Chiwetel Ejiofor|Rachel McAdams,LV|PH,7.5,889776,115,2010s
+566,I Saw the Devil,2010,Action|Thriller,Kim Jee-woon,Lee Byung-hun|Lee Byung-hun|Choi Min-sik,LV|DK,7.8,167650,144,2010s
+567,Kramer vs. Kramer,1979,Drama,Robert Benton,Dustin Hoffman|Meryl Streep|Jane Alexander,DK|AT,7.8,167430,105,1970s
+568,Another Round,2020,Comedy|Drama,Thomas Vinterberg,Mads Mikkelsen|Thomas Bo Larsen|Magnus Millang,DK|LV,7.7,229200,117,2020s
+569,Chak De! India,2007,Drama|Family|Sport,Shimit Amin,Shah Rukh Khan|Vidya Malvade|Sagarika Ghatge,PL|US,8.1,92414,153,2000s
+570,Lord of War,2005,Crime|Drama,Andrew Niccol,Nicolas Cage|Ethan Hawke|Jared Leto,PH|PT,7.6,361438,122,2000s
+571,50/50,2011,Comedy|Drama|Romance,Jonathan Levine,Joseph Gordon-Levitt|Seth Rogen|Anna Kendrick,PH|PT,7.6,355600,100,2010s
+572,John Wick,2014,Action|Crime|Thriller,Chad Stahelski,Keanu Reeves|Michael Nyqvist|Alfie Allen,LV|MK,7.5,836043,101,2010s
+573,Bhaag Milkha Bhaag,2013,Biography|Drama|Sport,Rakeysh Omprakash Mehra,Farhan Akhtar|Kousi Orfahli|Deepak Singh Rawat,PT|ZA,8.2,79615,186,2010s
+574,3:10 to Yuma,2007,Action|Crime|Drama,James Mangold,Russell Crowe|Christian Bale|Ben Foster,DK|LV,7.6,352745,122,2000s
+575,"South Park: Bigger, Longer & Uncut",1999,Animation|Comedy|Fantasy,Trey Parker,Trey Parker|Trey Parker|Trey Parker,DK|PT,7.7,224070,81,1990s
+576,Persepolis,2007,Animation|Biography|Drama,Vincent Paronnaud|Marjane Satrapi,Chiara Mastroianni|Catherine Deneuve|Danielle Darrieux,PT|ZA,8.0,106774,96,2000s
+577,Spider-Man 2,2004,Action|Adventure|Sci-Fi,Sam Raimi,Tobey Maguire|Tobey Maguire|Kirsten Dunst,LV|PH,7.5,797738,127,2000s
+578,Bridge of Spies,2015,Drama|History|Thriller,Steven Spielberg,Tom Hanks|Mark Rylance|Alan Alda,LV|DK,7.6,346315,142,2010s
+579,The Hunger Games: Catching Fire,2013,Action|Adventure|Romance,Francis Lawrence,Jennifer Lawrence|Josh Hutcherson|Liam Hemsworth,PH|PT,7.5,779605,146,2010s
+580,Goldfinger,1964,Action|Adventure|Thriller,Guy Hamilton,Sean Connery|Gert FrÃ¶be|Honor Blackman,DK|LV,7.7,219150,110,1960s
+581,Harry Potter and the Chamber of Secrets,2002,Adventure|Family|Fantasy,Chris Columbus,Daniel Radcliffe|Rupert Grint|Emma Watson,DK|AT,7.5,772889,161,2000s
+582,Creed,2015,Action|Drama|Sport,Ryan Coogler,Michael B. Jordan|Sylvester Stallone|Tessa Thompson,LV|PH,7.6,338092,133,2010s
+583,The Royal Tenenbaums,2001,Comedy|Drama,Wes Anderson,Gene Hackman|Gwyneth Paltrow|Anjelica Huston,AT|PT,7.6,337643,110,2000s
+584,The Man Who Shot Liberty Valance,1962,Drama|Western,John Ford,James Stewart|John Wayne|Vera Miles,DK|AT,8.1,89354,123,1960s
+585,Sling Blade,1996,Drama,Billy Bob Thornton,Billy Bob Thornton|Dwight Yoakam|J.T. Walsh,DK|AT,8.0,104486,135,1990s
+586,Do the Right Thing,1989,Comedy|Drama,Spike Lee,Danny Aiello|Ossie Davis|Ruby Dee,DK|PT,7.9,125586,120,1980s
+587,Mission: Impossible - Dead Reckoning Part One,2023,Action|Adventure|Thriller,Christopher McQuarrie,Tom Cruise|Hayley Atwell|Ving Rhames,DK|LV,7.6,330914,163,2020s
+588,Seven Pounds,2008,Drama|Mystery|Thriller,Gabriele Muccino,Will Smith|Rosario Dawson|Woody Harrelson,DK|LV,7.6,327019,123,2000s
+589,Sherlock Holmes,2009,Action|Adventure|Mystery,Guy Ritchie,Robert Downey Jr.|Jude Law|Rachel McAdams,DK|PH,7.5,709520,128,2000s
+590,Dancer in the Dark,2000,Crime|Drama|Musical,Lars von Trier,BjÃ¶rk|Catherine Deneuve|David Morse,LV|DK,7.9,124727,135,2000s
+591,Toy Story 4,2019,Adventure|Animation|Comedy,Josh Cooley,Tom Hanks|Tim Allen|Annie Potts,DK|AT,7.6,326125,100,2010s
+592,Harry Potter and the Order of the Phoenix,2007,Adventure|Family|Fantasy,David Yates,Daniel Radcliffe|Emma Watson|Rupert Grint,DK|MK,7.5,707038,138,2000s
+593,Free Solo,2018,Adventure|Documentary|Sport,Jimmy Chin|Elizabeth Chai Vasarhelyi,,DK|AT,8.1,88174,100,2010s
+594,Searching for Sugar Man,2012,Biography|Documentary|Music,Malik Bendjelloul,,PT|ZA,8.2,76647,86,2010s
+595,Baby Driver,2017,Action|Crime|Drama,Edgar Wright,Ansel Elgort|Jon Bernthal|Jon Hamm,LV|AT,7.5,691204,113,2010s
+596,Tumbbad,2018,Drama|Fantasy|Horror,Rahi Anil Barve|Anand Gandhi|Adesh Prasad,Sohum Shah|Jyoti Malshe|Dhundiraj Prabhakar Jogalekar,PH|ZA,8.2,76631,108,2010s
+597,My Name Is Khan,2010,Drama|Romance,Karan Johar,Shah Rukh Khan|Kajol|Sheetal Menon,PH|ZA,7.9,123789,165,2010s
+598,Hunt for the Wilderpeople,2016,Adventure|Comedy|Drama,Taika Waititi,Sam Neill|Julian Dennison|Rima Te Wiata,ZA|AU,7.8,155033,101,2010s
+599,Zombieland,2009,Action|Comedy|Horror,Ruben Fleischer,Jesse Eisenberg|Emma Stone|Woody Harrelson,PH|PT,7.5,671874,88,2000s
+600,A Quiet Place,2018,Drama|Horror|Sci-Fi,John Krasinski,Emily Blunt|John Krasinski|Millicent Simmonds,LV|AT,7.5,665428,90,2010s
+601,Glory,1989,Biography|Drama|History,Edward Zwick,Matthew Broderick|Denzel Washington|Cary Elwes,DK|AT,7.8,153696,122,1980s
+602,The Trial of the Chicago 7,2020,Drama|History|Thriller,Aaron Sorkin,Eddie Redmayne|Alex Sharp|Sacha Baron Cohen,DK|AT,7.7,206465,129,2020s
+603,The Little Mermaid,1989,Adventure|Animation|Family,Ron Clements|John Musker,Jodi Benson|Samuel E. Wright|Rene Auberjonois,DK|LV,7.6,314208,83,1980s
+604,Manhattan,1979,Comedy|Drama|Romance,Woody Allen,Woody Allen|Diane Keaton|Mariel Hemingway,DK|AT,7.8,153249,96,1970s
+605,Gone Baby Gone,2007,Crime|Drama|Mystery,Ben Affleck,Morgan Freeman|Ed Harris|Casey Affleck,PH|PT,7.6,312642,114,2000s
+606,Train to Busan,2016,Action|Horror|Thriller,Yeon Sang-ho,Gong Yoo|Jung Yu-mi|Ma Dong-seok,LV|DK,7.6,311896,118,2010s
+607,A Wednesday,2008,Action|Crime|Drama,Neeraj Pandey,Anupam Kher|Naseeruddin Shah|Virendra Saxena,PH|ZA,8.1,86385,104,2000s
+608,RoboCop,1987,Action|Crime|Sci-Fi,Paul Verhoeven,Peter Weller|Peter Weller|Nancy Allen,LV|DK,7.6,310776,102,1980s
+609,Office Space,1999,Comedy,Mike Judge,Ron Livingston|Jennifer Aniston|David Herman,DK|PH,7.6,310653,89,1990s
+610,Avatar: The Way of Water,2022,Action|Adventure|Fantasy,James Cameron,Sam Worthington|Zoe SaldaÃ±a|Sigourney Weaver,LV|DK,7.5,643010,192,2020s
+611,Night of the Living Dead,1968,Horror|Thriller,George A. Romero,Duane Jones|Judith O'Dea|Karl Hardman,PT|PH,7.8,151963,96,1960s
+612,Flow,2024,Adventure|Animation|Family,Gints Zilbalodis,,DK|LV,7.8,151790,85,2020s
+613,Talk to Her,2002,Drama|Mystery|Romance,Pedro AlmodÃ³var,Rosario Flores|Javier CÃ¡mara|DarÃ­o Grandinetti,LV|DK,7.9,120968,112,2000s
+614,The Whale,2022,Drama,Darren Aronofsky,Brendan Fraser|Sadie Sink|Ty Simpkins,LV|DK,7.6,308124,117,2020s
+615,The Celebration,1998,Drama,Thomas Vinterberg,Ulrich Thomsen|Henning Moritzen|Thomas Bo Larsen,DK|LV,8.0,100459,101,1990s
+616,The Conjuring,2013,Horror|Mystery|Thriller,James Wan,Patrick Wilson|Vera Farmiga|Ron Livingston,LV|DK,7.5,629378,112,2010s
+617,Road to Perdition,2002,Crime|Drama|Thriller,Sam Mendes,Tom Hanks|Tyler Hoechlin|Paul Newman,DK|AT,7.6,302011,117,2000s
+618,A Streetcar Named Desire,1951,Drama,Elia Kazan,Vivien Leigh|Marlon Brando|Kim Hunter,DK|AT,7.9,119271,122,1950s
+619,Stardust,2007,Adventure|Fantasy|Romance,Matthew Vaughn,Charlie Cox|Claire Danes|Sienna Miller,LV|PH,7.6,299905,127,2000s
+620,The Banshees of Inisherin,2022,Comedy|Drama,Martin McDonagh,Colin Farrell|Brendan Gleeson|Kerry Condon,DK|AT,7.6,298480,114,2020s
+621,Lethal Weapon,1987,Action|Crime|Thriller,Richard Donner,Mel Gibson|Danny Glover|Gary Busey,DK|PT,7.6,297653,109,1980s
+622,End of Watch,2012,Action|Crime|Drama,David Ayer,Jake Gyllenhaal|Michael PeÃ±a|Anna Kendrick,PH|PT,7.6,294472,109,2010s
+623,Source Code,2011,Action|Drama|Mystery,Duncan Jones,Jake Gyllenhaal|Michelle Monaghan|Vera Farmiga,LV|PH,7.5,585930,93,2010s
+624,Deadpool & Wolverine,2024,Action|Adventure|Comedy,Shawn Levy,Ryan Reynolds|Ryan Reynolds|Ryan Reynolds,DK|AT,7.5,583093,128,2020s
+625,Love Actually,2003,Comedy|Drama|Romance,Richard Curtis,Hugh Grant|Martine McCutcheon|Liam Neeson,DK|LV,7.5,582755,135,2000s
+626,High Noon,1952,Drama|Thriller|Western,Fred Zinnemann,Gary Cooper|Grace Kelly|Thomas Mitchell,DK|AT,7.9,117049,85,1950s
+627,Indiana Jones and the Temple of Doom,1984,Action|Adventure,Steven Spielberg,Harrison Ford|Kate Capshaw|Ke Huy Quan,DK|PH,7.5,571766,118,1980s
+628,Ice Age,2002,Adventure|Animation|Comedy,Chris Wedge|Carlos Saldanha,Denis Leary|John Leguizamo|Ray Romano,LV|PT,7.5,569586,81,2000s
+629,28 Days Later,2002,Drama|Horror|Sci-Fi,Danny Boyle,Cillian Murphy|Naomie Harris|Christopher Eccleston,DK|AT,7.5,552831,113,2000s
+630,Chainsaw Man - The Movie: Reze Arc,2025,Action|Adventure|Animation,Tatsuya Yoshihara,Kikunosuke Toya|Shiori Izawa|Tomori Kusunoki,DK|AT,8.3,64510,100,2020s
+631,Touch of Evil,1958,Crime|Drama|Film-Noir,Orson Welles,Charlton Heston|Orson Welles|Janet Leigh,DK|PT,7.9,115303,95,1950s
+632,Hell or High Water,2016,Crime|Drama|Thriller,David Mackenzie,Chris Pine|Ben Foster|Jeff Bridges,LV|AT,7.6,280285,102,2010s
+633,Eastern Promises,2007,Crime|Drama|Thriller,David Cronenberg,Naomi Watts|Viggo Mortensen|Armin Mueller-Stahl,DK|PH,7.6,278874,100,2000s
+634,Sound of Metal,2019,Drama|Music,Darius Marder,Riz Ahmed|Olivia Cooke|Paul Raci,DK|PH,7.7,187876,120,2010s
+635,Patton,1970,Biography|Drama|War,Franklin J. Schaffner,George C. Scott|Karl Malden|Stephen Young,DK|PT,7.9,113792,172,1970s
+636,Back to the Future Part III,1990,Adventure|Comedy|Sci-Fi,Robert Zemeckis,Michael J. Fox|Michael J. Fox|Christopher Lloyd,DK|PH,7.5,524030,118,1990s
+637,The Reader,2008,Drama|Mystery|Romance,Stephen Daldry,Kate Winslet|Ralph Fiennes|Bruno Ganz,PH|PT,7.6,274956,124,2000s
+638,Notorious,1946,Drama|Film-Noir|Mystery,Alfred Hitchcock,Cary Grant|Ingrid Bergman|Claude Rains,DK|AT,7.9,113138,102,1940s
+639,Chungking Express,1994,Comedy|Crime|Drama,Wong Kar-Wai,Brigitte Lin|Takeshi Kaneshiro|Tony Leung Chiu-wai,LV|DK,7.9,112837,102,1990s
+640,Sinners,2025,Horror,Ryan Coogler,Michael B. Jordan|Michael B. Jordan|Jack O'Connell,DK|LV,7.5,511889,137,2020s
+641,Gangs of New York,2002,Crime|Drama,Martin Scorsese,Leonardo DiCaprio|Cameron Diaz|Daniel Day-Lewis,LV|PH,7.5,508693,167,2000s
+642,Scott Pilgrim vs. the World,2010,Action|Comedy|Fantasy,Edgar Wright,Michael Cera|Mary Elizabeth Winstead|Kieran Culkin,DK|LV,7.5,499309,112,2010s
+643,The Hurt Locker,2008,Drama|Thriller|War,Kathryn Bigelow,Jeremy Renner|Anthony Mackie|Brian Geraghty,LV|PH,7.5,498526,131,2000s
+644,Dirty Harry,1971,Action|Crime|Thriller,Don Siegel|Clint Eastwood,Clint Eastwood|Andrew Robinson|Harry Guardino,DK|AT,7.7,182138,102,1970s
+645,Amour,2012,Drama,Michael Haneke,Jean-Louis Trintignant|Emmanuelle Riva|Isabelle Huppert,LV|AT,7.9,111031,127,2010s
+646,The Boondock Saints,1999,Action|Crime|Thriller,Troy Duffy,Willem Dafoe|Sean Patrick Flanery|Norman Reedus,DK|AT,7.6,263413,108,1990s
+647,Dawn of the Dead,1978,Horror|Thriller,George A. Romero,David Emge|Ken Foree|Scott H. Reiniger,LV|DK,7.8,137213,127,1970s
+648,Elite Squad 2: The Enemy Within,2010,Crime|Drama|Thriller,JosÃ© Padilha,Wagner Moura|Irandhir Santos|AndrÃ© Ramiro,DK|PT,8.0,92754,115,2010s
+649,I Swear,2025,Biography|Drama,Kirk Jones,Robert Aramayo|Maxine Peake|Somerled Campbell,DK|AT,8.4,56233,120,2020s
+650,Perfect Days,2023,Drama,Wim Wenders,KÅji Yakusho|Tokio Emoto|Arisa Nakano,DK|AT,7.9,109447,124,2020s
+651,Collateral,2004,Action|Crime|Drama,Michael Mann,Tom Cruise|Jamie Foxx|Jada Pinkett Smith,LV|PH,7.5,471605,120,2000s
+652,The Night of the Hunter,1955,Crime|Drama|Thriller,Charles Laughton,Robert Mitchum|Shelley Winters|Lillian Gish,DK|AT,7.9,108960,92,1950s
+653,The King of Comedy,1982,Comedy|Crime|Drama,Martin Scorsese,Robert De Niro|Jerry Lewis|Diahnne Abbott,DK|LV,7.8,134617,109,1980s
+654,"Spring, Summer, Fall, Winter... and Spring",2003,Drama|Romance,Kim Ki-duk,Kim Ki-duk|Oh Yeong-su|Jong-ho Kim,DK|PT,8.0,91250,103,2000s
+655,Lost Ladies,2023,Comedy|Drama,Kiran Rao,Nitanshi Goel|Pratibha Ranta|Sparsh Shrivastava,ZA|AR,8.3,61571,122,2020s
+656,Sing Street,2016,Comedy|Drama|Music,John Carney,Ferdia Walsh-Peelo|Aidan Gillen|Maria Doyle Kennedy,AT|PH,7.9,108552,106,2010s
+657,Farha,2021,Drama,Darin J. Sallam,Karam Taher|Ashraf Barhom|Ali Suliman,PH|ZA,8.0,91057,92,2020s
+658,Tokyo Story,1953,Drama,YasujirÅ Ozu,ChishÅ« RyÅ«|Chieko Higashiyama|SÅ Yamamura,DK|PH,8.1,78407,137,1950s
+659,The Godfather Part III,1990,Crime|Drama,Francis Ford Coppola,Al Pacino|Diane Keaton|Andy Garcia,DK|AT,7.5,458656,162,1990s
+660,21 Grams,2003,Crime|Drama|Thriller,Alejandro G. IÃ±Ã¡rritu,Sean Penn|Benicio Del Toro|Naomi Watts,DK|PH,7.6,253109,124,2000s
+661,Dhurandhar: The Revenge,2026,Action|Crime|Thriller,Aditya Dhar,Ranveer Singh|Ranveer Singh|Akshaye Khanna,AT|PT,8.2,68782,235,2020s
+662,Neon Genesis Evangelion: The End of Evangelion,1997,Action|Animation|Drama,Hideaki Anno|Kazuya Tsurumaki,Megumi Ogata|Megumi Hayashibara|Megumi Hayashibara,NO|ZA,8.1,78226,87,1990s
+663,The Town,2010,Crime|Drama|Thriller,Ben Affleck,Ben Affleck|Rebecca Hall|Jon Hamm,LV|PH,7.5,451369,125,2010s
+664,Pink Floyd: The Wall,1982,Drama|Fantasy|Music,Alan Parker,Bob Geldof|Christine Hargreaves|James Laurenson,DK|PT,8.0,90343,95,1980s
+665,The Devil's Advocate,1997,Drama|Fantasy|Mystery,Taylor Hackford,Keanu Reeves|Al Pacino|Charlize Theron,DK|LV,7.5,449678,144,1990s
+666,Midnight Cowboy,1969,Drama,John Schlesinger,Dustin Hoffman|Jon Voight|Sylvia Miles,DK|AT,7.8,132203,113,1960s
+667,The Killing,1956,Crime|Drama|Film-Noir,Stanley Kubrick,Sterling Hayden|Coleen Gray|Vince Edwards,DK|AT,7.9,106577,84,1950s
+668,Ratsasan,2018,Crime|Drama|Mystery,Ram Kumar,Vishnu Vishal|Amala Paul|Radha Ravi,PH|ZA,8.3,60594,146,2010s
+669,Eyes Wide Shut,1999,Drama|Mystery|Thriller,Stanley Kubrick,Tom Cruise|Nicole Kidman|Todd Field,LV|DK,7.5,434836,159,1990s
+670,Batman,1989,Crime,Tim Burton,Michael Keaton|Michael Keaton|Jack Nicholson,DK|LV,7.5,434283,126,1980s
+671,The Fall,2006,Adventure|Drama|Fantasy,Tarsem Singh,Lee Pace|Lee Pace|Catinca Untaru,CR|LV,7.8,130543,117,2000s
+672,Blackfish,2013,Documentary|Drama|Thriller,Gabriela Cowperthwaite,,DK|PH,8.1,76844,83,2010s
+673,Boyz n the Hood,1991,Crime|Drama,John Singleton,Cuba Gooding Jr.|Laurence Fishburne|Hudhail Al-Amir,DK|PH,7.7,169920,112,1990s
+674,The Best Years of Our Lives,1946,Drama|Romance|War,William Wyler,Myrna Loy|Dana Andrews|Fredric March,DK|AT,8.1,76782,170,1940s
+675,The Battle of Algiers,1966,Drama|War,Gillo Pontecorvo,Brahim Hadjadj|Jean Martin|Yacef Saadi,DK|PT,8.1,76546,121,1960s
+676,127 Hours,2010,Biography|Drama,Danny Boyle,James Franco|Amber Tamblyn|Kate Mara,DK|LV,7.5,426670,94,2010s
+677,Match Point,2005,Drama|Romance|Thriller,Woody Allen,Scarlett Johansson|Jonathan Rhys Meyers|Emily Mortimer,LV|DK,7.6,239904,124,2000s
+678,Solaris,1972,Adventure|Drama|Mystery,Andrei Tarkovsky,Natalya Bondarchuk|Donatas Banionis|JÃ¼ri JÃ¤rvet,DK|PT,7.9,104768,167,1970s
+679,Snow White and the Seven Dwarfs,1937,Adventure|Animation|Family,William Cottrell|David Hand|Wilfred Jackson|Larry Morey|Perce Pearce|Ben Sharpsteen,Adriana Caselotti|Adriana Caselotti|Harry Stockwell,DK|LV,7.6,239425,83,1930s
+680,Ray,2004,Biography|Drama|Music,Taylor Hackford,Jamie Foxx|Regina King|Kerry Washington,PH|PT,7.7,166682,152,2000s
+681,Mississippi Burning,1988,Crime|Drama|Mystery,Alan Parker,Gene Hackman|Willem Dafoe|Frances McDormand,DK|AT,7.8,128196,128,1980s
+682,Close Encounters of the Third Kind,1977,Drama|Sci-Fi,Steven Spielberg,Richard Dreyfuss|FranÃ§ois Truffaut|Teri Garr,DK|PH,7.6,237632,138,1970s
+683,Hamnet,2025,Biography|Drama|History,ChloÃ© Zhao,Jessie Buckley|Paul Mescal|Zac Wishart,DK|LV,7.8,128128,125,2020s
+684,The Bandit,1996,Crime|Drama,Yavuz Turgul,Sener Sen|Ugur YÃ¼cel|Sermin HÃ¼rmeriÃ§,DK|PT,8.1,75711,128,1990s
+685,Blazing Saddles,1974,Comedy|Western,Mel Brooks,Cleavon Little|Gene Wilder|Slim Pickens,DK|PT,7.7,166000,93,1970s
+686,The Aviator,2004,Biography|Drama,Martin Scorsese,Leonardo DiCaprio|Cate Blanchett|Kate Beckinsale,LV|AT,7.5,411300,170,2000s
+687,Kung Fu Hustle,2004,Action|Comedy|Fantasy,Stephen Chow,Stephen Chow|Wah Yuen|Qiu Yuen,DK|PH,7.7,165688,99,2000s
+688,Anatomy of a Fall,2023,Crime|Drama|Mystery,Justine Triet,Sandra HÃ¼ller|Swann Arlaud|Milo Machado-Graner,DK|LV,7.6,235612,151,2020s
+689,Jackie Brown,1997,Crime|Drama|Thriller,Quentin Tarantino,Pam Grier|Samuel L. Jackson|Robert Forster,LV|ZA,7.5,406840,154,1990s
+690,The Illusionist,2006,Drama|Fantasy|Mystery,Neil Burger,Edward Norton|Jessica Biel|Paul Giamatti,DK|PH,7.5,405969,110,2000s
+691,The Raid: Redemption,2011,Action|Crime|Thriller,Gareth Evans,Iko Uwais|Ananda George|Ray Sahetapy,DK|PT,7.6,232302,101,2010s
+692,Once,2006,Drama|Music|Musical,John Carney,Glen Hansard|MarkÃ©ta IrglovÃ¡|Hugh Walsh,PT|ZA,7.8,126068,86,2000s
+693,Dilwale Dulhania Le Jayenge,1995,Drama|Romance,Aditya Chopra,Shah Rukh Khan|Kajol|Amrish Puri,ZA|AU,8.0,86389,181,1990s
+694,La Dolce Vita,1960,Comedy|Drama,Federico Fellini,Marcello Mastroianni|Anita Ekberg|Anouk AimÃ©e,DK|LV,8.0,86305,174,1960s
+695,Godzilla Minus One,2023,Action|Adventure|Drama,Takashi Yamazaki,Minami Hamabe|Sakura AndÅ|RyÃ»nosuke Kamiki,DK|AT,7.6,228882,124,2020s
+696,The Count of Monte Cristo,2002,Action|Adventure|Drama,Kevin Reynolds,Jim Caviezel|Guy Pearce|Christopher Adamson,LV|DK,7.7,161156,131,2000s
+697,The Cove,2009,Biography|Crime|Documentary,Louie Psihoyos,,DK|PT,8.4,52761,92,2000s
+698,The Wages of Fear,1953,Adventure|Drama|Thriller,Henri-Georges Clouzot,Yves Montand|Charles Vanel|Peter van Eyck,DK|AT,8.1,74075,156,1950s
+699,Good Bye Lenin!,2003,Comedy|Drama|Romance,Wolfgang Becker,Daniel BrÃ¼hl|Katrin Sass|Chulpan Khamatova,PT|ZA,7.7,160485,121,2000s
+700,Nosferatu,1922,Fantasy|Horror,F.W. Murnau,Max Schreck|Alexander Granach|Gustav von Wangenheim,LV|AT,7.8,123996,95,1920s
