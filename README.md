@@ -20,19 +20,17 @@ Audience Engagement: Adventure leads in total audience votes, averaging 659,000 
 
 Visualizations
 
-1. Top 10 Genres by Movie Count
-![Top 10 Genres](visualisations/top_10_genres.png)
+ 1. Top 10 Genres by Movie Count
+[Top 10 Genres](top_10_genres.png)
 
-2. Rating Distribution Across Decades
-![Ratings Across Decades](visualisations/ratings_by_decade.png)
+ 2. Rating Distribution Across Decades
+[Ratings Across Decades](ratings_by_decade.png)
 
 Repository Structure
 
-```text
 ├── IMDb_Top_700_Movies_2026.xlsx  # Raw dataset
 ├── cleaned_imdb_movies.csv        # Cleaned & transformed dataset
 ├── imdb_top_700_analysis.ipynb    # EDA & Data Cleaning Notebook
-├── visualisations/                # Exported chart images
-│   ├── top_10_genres.png
-│   └── ratings_by_decade.png
+├── top_10_genres.png              # Exported chart
+├── ratings_by_decade.png          # Exported chart
 └── README.md                      # Project documentation
